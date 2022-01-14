@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2021.13.2906**, released on 2021/12/09.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.1**, released on 2022/01/12.
 
-There are 320 games in this list.
+There are 331 games in this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -24,7 +24,9 @@ There are 320 games in this list.
 > ARK: Survival of the Fittest  
 > Arma 3  
 > Assassin's Creed  
+> Assassin's Creed Brotherhood  
 > Assassin's Creed 2  
+> Assassin's Creed III  
 > Assassin's Creed IV Black Flag  
 > Assassin's Creed Odyssey  
 > Assassin's Creed Origins  
@@ -76,9 +78,10 @@ There are 320 games in this list.
 > Call of Duty: WWII  
 > Capcom Arcade Stadium  
 > Carmageddon 2  
-> I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator  
+> I Love You, Colonel Sanders! A Finger Lickin� Good Dating Simulator  
 > Chicory: A Colorful Tale  
 > Chivalry 2  
+> Chorus  
 > Chrono Trigger  
 > Cities Skylines  
 > Cold Zero  
@@ -93,6 +96,7 @@ There are 320 games in this list.
 > Cryostasis  
 > Crysis 2  
 > Crysis Warhead  
+> Curved Space  
 > Cyberpunk 2077  
 > Dark Souls III  
 > Dauntless  
@@ -167,6 +171,7 @@ There are 320 games in this list.
 > Halo Infinite  
 > Hearthstone  
 > Hearts of Iron IV  
+> Hell Let Loose  
 > Heroes of the Storm  
 > Hitman 2  
 > Hitman 3  
@@ -206,6 +211,7 @@ There are 320 games in this list.
 > Middle-earth: Shadow of Mordor  
 > Middle-earth:Shadow of War  
 > Minecraft  
+> Monster Hunter Stories 2: Wings of Ruin  
 > Monster Hunter: World  
 > Moonlighter  
 > Mordhau  
@@ -226,6 +232,7 @@ There are 320 games in this list.
 > No Man's Sky  
 > Nuts  
 > One Hand Clapping  
+> Orcs Must Die 3  
 > Outriders  
 > Overwatch  
 > Oxygen Not Included  
@@ -258,6 +265,7 @@ There are 320 games in this list.
 > Rocket Arena  
 > Roguebook  
 > Rogue Company  
+> Ruined King: A League of Legends Story  
 > Rune II Decapitation Edition  
 > Rust  
 > Rustler  
@@ -267,6 +275,8 @@ There are 320 games in this list.
 > SCUM  
 > Sea of Thieves  
 > Sekiro: Shadows Die Twice  
+> Sherlock Holmes Chapter One  
+> Sherlock Holmes: Crimes & Punishments  
 > Shop Titans  
 > Sid Meier's Civilization V  
 > Sid Meier's: Civilization VI  
@@ -285,6 +295,7 @@ There are 320 games in this list.
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
 > Terraria  
+> The Ascent  
 > The Banner Saga 3  
 > The Binding of Isaac: Rebirth  
 > The Club  
