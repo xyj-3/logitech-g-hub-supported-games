@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.1**, released on 2022/01/12.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.2**, released on 2022/02/15. This is an unofficial list and I am not affiliated with Logitech.
 
-There are 331 games in this list.
+There are 350 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -10,6 +10,7 @@ There are 331 games in this list.
 > Age of Empires 2 Definitive Edition  
 > Age of Wonders: Planetfall  
 > Aion  
+> Alex Kidd in Miracle World DX  
 > Aliens: Colonial Marines Collection  
 > Aliens versus Predator Classic 2000  
 > Aliens vs. Predator  
@@ -35,14 +36,20 @@ There are 331 games in this list.
 > Assetto Corsa  
 > Assetto Corsa Competizione  
 > ASTRONEER  
+> Audiosurf  
 > Automobilista 2  
 > A Plague Tale: Innocence  
 > A Way Out  
 > Back 4 Blood  
 > Baldur's Gate 3  
+> Baldur's Gate: Enhanced Edition  
+> Baldur's Gate II: Enhanced Edition  
+> Batman: Arkham City  
+> Batman: Arkham Knight  
 > Batman: Arkham Origins  
 > Battleborn  
 > Battlefield 1  
+> Battlefield 2  
 > Battlefield 3  
 > Battlefield 4  
 > Battlefield Bad Company 2  
@@ -50,12 +57,20 @@ There are 331 games in this list.
 > Battlefield V  
 > Battlefield 2042  
 > Beasts of Maravilla Island  
+> Beat Hazard  
+> Beat Saber  
+> BERSERK and the Band of the Hawk  
+> Besiege  
+> Big Brain Wolf  
 > Biomutant  
 > Bioshock  
 > BioShock 2  
 > BioShock Infinite  
 > Black Desert Online Remastered  
+> Blair Witch  
 > Bless Unleashed  
+> Bloody Good Time  
+> Bloons TD 6  
 > Blue Fire  
 > Blur  
 > Borderlands  
@@ -196,6 +211,7 @@ There are 331 games in this list.
 > LawBreakers  
 > League of Legends  
 > Left 4 Dead 2  
+> Legend of Mana  
 > Little Nightmares II  
 > Lumberhill  
 > Madden NFL 21  
@@ -244,6 +260,7 @@ There are 331 games in this list.
 > Phantasy Star Online 2 New Genesis  
 > Photoshop CC  
 > PlayerUnknown's Battlegrounds  
+> Police Simulator: Patrol Officers  
 > Postal 4  
 > Project CARS 2  
 > Project CARS 3  
@@ -292,6 +309,7 @@ There are 331 games in this list.
 > Star Wars: Battlefront II  
 > Stellaris  
 > Stronghold Warlords  
+> Super Magbot  
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
 > Terraria  
@@ -335,3 +353,4 @@ There are 331 games in this list.
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
 > Yu-Gi-Oh! Duel Links  
+> Zombies Ate My Neighbors and Ghoul Patrol  
