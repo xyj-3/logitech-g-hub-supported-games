@@ -1,14 +1,15 @@
-# Logitech G HUB supported games list
+# Logitech G HUB supported games list 
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.2**, released on 2022/02/15. This is an unofficial list and I am not affiliated with Logitech.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.3.242300**, released on 2022/03/22. [This is an unofficial list and I am not affiliated with Logitech.]
 
-There are 350 games on this list.
+There are 356 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
 > 7 Days to Die  
 > Age of Empires 2 Definitive Edition  
 > Age of Wonders: Planetfall  
+> Aim Lab  
 > Aion  
 > Alex Kidd in Miracle World DX  
 > Aliens: Colonial Marines Collection  
@@ -93,7 +94,7 @@ There are 350 games on this list.
 > Call of Duty: WWII  
 > Capcom Arcade Stadium  
 > Carmageddon 2  
-> I Love You, Colonel Sanders! A Finger Lickin� Good Dating Simulator  
+> I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator  
 > Chicory: A Colorful Tale  
 > Chivalry 2  
 > Chorus  
@@ -142,7 +143,9 @@ There are 350 games on this list.
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
 > Dragon Quest XI: Echoes of an Elusive Age  
 > Dying Light  
+> Dying Light 2 Stay Human  
 > Edge of Eternity  
+> Elden Ring  
 > Elite Dangerous  
 > Europa Universalis IV  
 > Euro Truck Simulator 2  
@@ -177,6 +180,7 @@ There are 350 games on this list.
 > Ghosts 'N Goblins Resurrection  
 > Goat Simulator  
 > Godfall  
+> God of War  
 > Grand Theft Auto V  
 > Greedfall  
 > Grim Dawn  
@@ -208,11 +212,13 @@ There are 350 games on this list.
 > Kingdom Hearts 3 + Re Mind  
 > King of Seas  
 > Knockout City  
+> KovaaK's  
 > LawBreakers  
 > League of Legends  
 > Left 4 Dead 2  
 > Legend of Mana  
 > Little Nightmares II  
+> Lost Ark  
 > Lumberhill  
 > Madden NFL 21  
 > Madden NFL 22  
