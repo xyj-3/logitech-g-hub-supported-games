@@ -1,8 +1,8 @@
-# Logitech G HUB supported games list 
+# Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.3.242300**, released on 2022/03/22. [This is an unofficial list and I am not affiliated with Logitech.]
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.4**, released on 2022/04/13. [This is an unofficial list and I am not affiliated with Logitech.]
 
-There are 356 games on this list.
+There are 361 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -111,6 +111,7 @@ There are 356 games on this list.
 > Crusader Kings II  
 > Cryostasis  
 > Crysis 2  
+> Crysis remastered  
 > Crysis Warhead  
 > Curved Space  
 > Cyberpunk 2077  
@@ -178,6 +179,7 @@ There are 356 games on this list.
 > Genshin Impact  
 > Ghostrunner  
 > Ghosts 'N Goblins Resurrection  
+> Tom Clancy's Ghost Recon Wildlands  
 > Goat Simulator  
 > Godfall  
 > God of War  
@@ -233,6 +235,7 @@ There are 356 games on this list.
 > Middle-earth: Shadow of Mordor  
 > Middle-earth:Shadow of War  
 > Minecraft  
+> Monster Hunter Rise  
 > Monster Hunter Stories 2: Wings of Ruin  
 > Monster Hunter: World  
 > Moonlighter  
@@ -249,6 +252,7 @@ There are 356 games on this list.
 > Need for Speed Undercover  
 > New World  
 > NGU Idle  
+> Nickelodeon All-Star Brawl  
 > NieR Replicant ver.1.22474487139...  
 > Nioh 2 - The Complete Edition  
 > No Man's Sky  
@@ -274,6 +278,7 @@ There are 356 games on this list.
 > RaceRoom Racing Experience  
 > Raft  
 > Rage 2  
+> Tom Clancy's Rainbow Six Extraction  
 > Rainbow Six Siege  
 > Rainbow Six Vegas  
 > Red Dead Redemption 2  
