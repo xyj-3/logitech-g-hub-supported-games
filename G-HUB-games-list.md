@@ -1,6 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.4**, released on 2022/04/13. [This is an unofficial list and I am not affiliated with Logitech.]
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.4**, released on 2022/04/13. This is an unofficial list and I am not affiliated with Logitech.
+
+_If you are looking in particular for a list of games that have Lightsync game-driven lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that this list shows games that can have custom profiles in G HUB for Logitech devices (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-driven ones),                 while the game-driven list contains games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
 There are 361 games on this list.
 
