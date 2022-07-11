@@ -1,20 +1,23 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.4**, released on 2022/04/13. This is an unofficial list and I am not affiliated with Logitech.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.6**, released on 2022/06/07. [This is an unofficial list and I am not affiliated with Logitech.]
 
 _If you are looking in particular for a list of games that have Lightsync game-driven lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that this list shows games that can have custom profiles in G HUB for Logitech devices (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-driven ones),                 while the game-driven list contains games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
-There are 361 games on this list.
+There are 393 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
 > 7 Days to Die  
 > Age of Empires 2 Definitive Edition  
+> Age of Empires IV  
 > Age of Wonders: Planetfall  
 > Aim Lab  
 > Aion  
+> Alan Wake Remastered  
 > Alex Kidd in Miracle World DX  
 > Aliens: Colonial Marines Collection  
+> Aliens Fireteam Elite  
 > Aliens versus Predator Classic 2000  
 > Aliens vs. Predator  
 > Alien: Isolation  
@@ -76,15 +79,19 @@ There are 361 games on this list.
 > Bloons TD 6  
 > Blue Fire  
 > Blur  
+> Book of Demons  
+> Book of Travels Chapter Zero  
 > Borderlands  
 > Borderlands 2  
 > Borderlands 3  
 > Borderlands: The Pre-Sequel  
 > Brawlhalla  
+> Breakwaters  
 > Brink  
 > Bulletstorm  
 > Burnout Paradise  
 > Call of Duty Advanced Warfare  
+> Call of Duty: Black Ops  
 > Call of Duty: Black Ops 4  
 > Call of Duty: Black Ops Cold War  
 > Call of Duty: Black Ops II (single player)  
@@ -95,10 +102,13 @@ There are 361 games on this list.
 > Call of Duty Vanguard  
 > Call of Duty: WWII  
 > Capcom Arcade Stadium  
+> Capsized  
 > Carmageddon 2  
+> Century: Age of Ashes  
 > I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator  
 > Chicory: A Colorful Tale  
 > Chivalry 2  
+> Chivalry: Medieval Warfare  
 > Chorus  
 > Chrono Trigger  
 > Cities Skylines  
@@ -107,6 +117,8 @@ There are 361 games on this list.
 > Conan Exiles  
 > Conflict Desert Storm  
 > Counter Strike  
+> Counter-Strike: Condition Zero  
+> Counter-Strike: Condition Zero Deleted Scenes  
 > Counter-Strike: Global Offensive  
 > Crashday  
 > Crash Bandicoot 4 It's About Time  
@@ -125,6 +137,7 @@ There are 361 games on this list.
 > Dead by Daylight  
 > Deathloop  
 > Death Stranding  
+> Death Trash  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
 > APPLICATION_NAME_DESKTOP  
 > Destiny 2  
@@ -145,6 +158,7 @@ There are 361 games on this list.
 > Dragon Age: Inquisition  
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
 > Dragon Quest XI: Echoes of an Elusive Age  
+> Dune: Spice Wars  
 > Dying Light  
 > Dying Light 2 Stay Human  
 > Edge of Eternity  
@@ -153,8 +167,10 @@ There are 361 games on this list.
 > Europa Universalis IV  
 > Euro Truck Simulator 2  
 > Evil Genius 2 World Domination  
+> Expeditions Rome  
 > F1 2020  
 > Factorio  
+> Fallen Knight  
 > Fallout 4  
 > Fallout 76  
 > Fallout: New Vegas  
@@ -164,12 +180,14 @@ There are 361 games on this list.
 > Farming Sim 15  
 > Far Cry 6  
 > Far Cry Primal  
+> FATAL FRAME / PROJECT ZERO: Maiden of Black Water  
 > Fate of the Dragon  
 > FEAR2  
 > F.E.A.R. 3  
 > Final Fantasy VIII - Remastered  
 > FIFA 22  
 > Fighter Ace 2  
+> FINAL FANTASY VII REMAKE INTERGRADE  
 > Final Fantasy XIV  
 > Flight Simulator X  
 > Football Manager 2020  
@@ -182,6 +200,7 @@ There are 361 games on this list.
 > Ghostrunner  
 > Ghosts 'N Goblins Resurrection  
 > Tom Clancy's Ghost Recon Wildlands  
+> Glitchpunk  
 > Goat Simulator  
 > Godfall  
 > God of War  
@@ -194,12 +213,15 @@ There are 361 games on this list.
 > Halo Infinite  
 > Hearthstone  
 > Hearts of Iron IV  
+> Heavenly Bodies  
 > Hell Let Loose  
 > Heroes of the Storm  
 > Hitman 2  
 > Hitman 3  
+> Hoa  
 > Hollow knight  
 > Horizon Zero Dawn Complete Edition  
+> HUMANKIND  
 > Human Fall Flat  
 > Hunt:Showdown  
 > Hyper Scape  
@@ -209,18 +231,22 @@ There are 361 games on this list.
 > JETT: The Far Shore  
 > Just DIe Already  
 > Kerbal Space Program  
+> KeyWe  
 > Kingdom Hearts HD 2.8 Final Chapter Prologue  
 > Kingdom Hearts HD 1.5 + 2.5 ReMix  
 > Kingdom Hearts Melody of Memory  
 > Kingdom Come: Deliverance  
 > Kingdom Hearts 3 + Re Mind  
+> King's Bounty 2  
 > King of Seas  
 > Knockout City  
 > KovaaK's  
 > LawBreakers  
+> Lawn Mowing Simulator  
 > League of Legends  
 > Left 4 Dead 2  
 > Legend of Mana  
+> Life is Strange: True Colors  
 > Little Nightmares II  
 > Lost Ark  
 > Lumberhill  
@@ -246,6 +272,7 @@ There are 361 games on this list.
 > Mount and Blade 2 Bannerlord  
 > Mount & Blade: Warband  
 > Muck  
+> NARAKA: BLADEPOINT  
 > NASCAR 21: Ignition  
 > NBA 2K20  
 > NBA 2K21  
@@ -276,6 +303,7 @@ There are 361 games on this list.
 > Postal 4  
 > Project CARS 2  
 > Project CARS 3  
+> Psychonauts 2  
 > Puyo Puyo Tetris 2  
 > RaceRoom Racing Experience  
 > Raft  
@@ -291,6 +319,7 @@ There are 361 games on this list.
 > rFactor  
 > Riders Republic  
 > Rim World  
+> Road 96  
 > Rocket League  
 > Rocket Arena  
 > Roguebook  
@@ -339,6 +368,7 @@ There are 361 games on this list.
 > The Sims 4  
 > The Surge 2  
 > The Witcher 3  
+> Tiny Tina's Wonderland  
 > Titanfall 2  
 > Tom Clancy's The Division  
 > Tom Clancy's The Division 2  
@@ -351,8 +381,10 @@ There are 361 games on this list.
 > Unturned  
 > Valheim  
 > Valorant  
+> Vampire: The Masquerade - Bloodhunt  
 > Wallpaper Engine  
 > Warframe  
+> Warhammer 40,000: Battlesector  
 > WAR THUNDER  
 > Watch Dogs: Legion  
 > Wave Break  
