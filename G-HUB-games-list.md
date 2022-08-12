@@ -1,10 +1,10 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.6**, released on 2022/06/07. [This is an unofficial list and I am not affiliated with Logitech.]
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.7**, released on 2022/07/26. [This is an unofficial list and I am not affiliated with Logitech.]
 
 _If you are looking in particular for a list of games that have Lightsync game-driven lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that this list shows games that can have custom profiles in G HUB for Logitech devices (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-driven ones),                 while the game-driven list contains games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
-There are 393 games on this list.
+There are 408 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -120,16 +120,24 @@ There are 393 games on this list.
 > Counter-Strike: Condition Zero  
 > Counter-Strike: Condition Zero Deleted Scenes  
 > Counter-Strike: Global Offensive  
+> Counter-Strike: Source  
 > Crashday  
 > Crash Bandicoot 4 It's About Time  
 > Crusader Kings II  
 > Cryostasis  
 > Crysis 2  
+> Crysis 3  
 > Crysis remastered  
 > Crysis Warhead  
 > Curved Space  
 > Cyberpunk 2077  
+> Darksiders  
+> Darksiders II  
+> DARK SOULS II  
 > Dark Souls III  
+> DARK SOULS II: Scholar of the First Sin  
+> DARK SOULS: Prepare To Die Edition  
+> Dark Void Zero  
 > Dauntless  
 > Days Gone  
 > DayZ  
@@ -325,6 +333,7 @@ There are 393 games on this list.
 > Roguebook  
 > Rogue Company  
 > Ruined King: A League of Legends Story  
+> Rune Factory 4  
 > Rune II Decapitation Edition  
 > Rust  
 > Rustler  
@@ -337,6 +346,7 @@ There are 393 games on this list.
 > Sherlock Holmes Chapter One  
 > Sherlock Holmes: Crimes & Punishments  
 > Shop Titans  
+> Shovel Knight Pocket Dungeon  
 > Sid Meier's Civilization V  
 > Sid Meier's: Civilization VI  
 > Slay the spire  
@@ -352,6 +362,7 @@ There are 393 games on this list.
 > Stellaris  
 > Stronghold Warlords  
 > Super Magbot  
+> Super Monkey Ball Banana Mania  
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
 > Terraria  
@@ -359,6 +370,8 @@ There are 393 games on this list.
 > The Banner Saga 3  
 > The Binding of Isaac: Rebirth  
 > The Club  
+> The Darkness II  
+> The Dark Pictures Anthology: House of Ashes  
 > The Elder Scrolls Online  
 > The Elder Scrolls V: Skyrim Special Edition  
 > The Evil Within 2  
@@ -377,11 +390,13 @@ There are 393 games on this list.
 > Total War: ROME II - Emperor Edition  
 > Total War: THREE KINGDOMS  
 > Total War: WARHAMMER II  
+> Twelve Minutes  
 > Untitled Goose Game  
 > Unturned  
 > Valheim  
 > Valorant  
 > Vampire: The Masquerade - Bloodhunt  
+> Vaporum: Lockdown  
 > Wallpaper Engine  
 > Warframe  
 > Warhammer 40,000: Battlesector  
