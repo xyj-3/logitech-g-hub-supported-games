@@ -1,10 +1,10 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.7**, released on 2022/07/26. [This is an unofficial list and I am not affiliated with Logitech.]
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.8.302942**, released on 2022/08/30. [This is an unofficial list and I am not affiliated with Logitech.]
 
-_If you are looking in particular for a list of games that have Lightsync game-driven lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that this list shows games that can have custom profiles in G HUB for Logitech devices (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-driven ones),                 while the game-driven list contains games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
+If you are looking in particular for a list of games that have Lightsync game-driven/integrated lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that this list shows games that can have _custom profiles_ in G HUB for Logitech devices (i.e. key assignments, mouse sensitivity, and Lightsync effects _excluding game-driven ones_),                 while the game-driven list contains games that automatically control the lighting on Lightsync devices to synchronize with in-game events.
 
-There are 408 games on this list.
+There are 444 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -46,6 +46,7 @@ There are 408 games on this list.
 > Automobilista 2  
 > A Plague Tale: Innocence  
 > A Way Out  
+> Babylon's Fall  
 > Back 4 Blood  
 > Baldur's Gate 3  
 > Baldur's Gate: Enhanced Edition  
@@ -107,6 +108,7 @@ There are 408 games on this list.
 > Century: Age of Ashes  
 > I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator  
 > Chicory: A Colorful Tale  
+> Chinatown Detective Agency  
 > Chivalry 2  
 > Chivalry: Medieval Warfare  
 > Chorus  
@@ -133,6 +135,8 @@ There are 408 games on this list.
 > Cyberpunk 2077  
 > Darksiders  
 > Darksiders II  
+> Darksiders III  
+> Darkspore  
 > DARK SOULS II  
 > Dark Souls III  
 > DARK SOULS II: Scholar of the First Sin  
@@ -142,8 +146,16 @@ There are 408 games on this list.
 > Days Gone  
 > DayZ  
 > DCS World Steam Edition  
+> Deadlight  
 > Dead by Daylight  
+> Dead Island  
+> Dead Rising 2  
+> Dead Rising 3  
+> Dead Space 2  
+> Dead Space 3  
 > Deathloop  
+> DeathSpank  
+> DeathSpank: Thongs Of Virtue  
 > Death Stranding  
 > Death Trash  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
@@ -170,13 +182,18 @@ There are 408 games on this list.
 > Dying Light  
 > Dying Light 2 Stay Human  
 > Edge of Eternity  
+> Eiyuden Chronicle: Rising  
 > Elden Ring  
+> ELEX II  
 > Elite Dangerous  
+> Escape From Tarkov  
 > Europa Universalis IV  
 > Euro Truck Simulator 2  
 > Evil Genius 2 World Domination  
 > Expeditions Rome  
 > F1 2020  
+> F1 2021  
+> F1 22  
 > Factorio  
 > Fallen Knight  
 > Fallout 4  
@@ -207,6 +224,7 @@ There are 408 games on this list.
 > Genshin Impact  
 > Ghostrunner  
 > Ghosts 'N Goblins Resurrection  
+> Ghostwire: Tokyo  
 > Tom Clancy's Ghost Recon Wildlands  
 > Glitchpunk  
 > Goat Simulator  
@@ -234,6 +252,7 @@ There are 408 games on this list.
 > Hunt:Showdown  
 > Hyper Scape  
 > Immortals Fenyx Rising  
+> Insurgency: Sandstorm  
 > It Takes Two  
 > Star Wars Jedi: Fallen Order  
 > JETT: The Far Shore  
@@ -246,6 +265,7 @@ There are 408 games on this list.
 > Kingdom Come: Deliverance  
 > Kingdom Hearts 3 + Re Mind  
 > King's Bounty 2  
+> King Arthur: Knight's Tale  
 > King of Seas  
 > Knockout City  
 > KovaaK's  
@@ -254,8 +274,10 @@ There are 408 games on this list.
 > League of Legends  
 > Left 4 Dead 2  
 > Legend of Mana  
+> LEGO Star Wars: The Skywalker Saga  
 > Life is Strange: True Colors  
 > Little Nightmares II  
+> Little Witch in the Woods  
 > Lost Ark  
 > Lumberhill  
 > Madden NFL 21  
@@ -302,6 +324,7 @@ There are 408 games on this list.
 > Paladins  
 > Path of Exile  
 > PAYDAY 2  
+> Persona 4 Arena Ultimax  
 > Persona 4 Golden  
 > Persona 5 Strikers  
 > Phantasy Star Online 2 New Genesis  
@@ -343,14 +366,18 @@ There are 408 games on this list.
 > SCUM  
 > Sea of Thieves  
 > Sekiro: Shadows Die Twice  
+> Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
 > Sherlock Holmes: Crimes & Punishments  
 > Shop Titans  
 > Shovel Knight Pocket Dungeon  
+> Shredders  
 > Sid Meier's Civilization V  
 > Sid Meier's: Civilization VI  
+> Sifu  
 > Slay the spire  
 > SMITE  
+> Sniper Elite 5  
 > SnowRunner  
 > South Park The Fractured But Whole  
 > Spacebase Startopia  
@@ -360,6 +387,8 @@ There are 408 games on this list.
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
 > Stellaris  
+> Stranger of Paradise: Final Fantasy Origin  
+> Stray  
 > Stronghold Warlords  
 > Super Magbot  
 > Super Monkey Ball Banana Mania  
@@ -390,6 +419,7 @@ There are 408 games on this list.
 > Total War: ROME II - Emperor Edition  
 > Total War: THREE KINGDOMS  
 > Total War: WARHAMMER II  
+> Tunic  
 > Twelve Minutes  
 > Untitled Goose Game  
 > Unturned  
@@ -397,20 +427,26 @@ There are 408 games on this list.
 > Valorant  
 > Vampire: The Masquerade - Bloodhunt  
 > Vaporum: Lockdown  
+> V Rising  
 > Wallpaper Engine  
 > Warframe  
 > Warhammer 40,000: Battlesector  
+> Warhammer 40,000: Chaos Gate - Daemonhunters  
 > WAR THUNDER  
 > Watch Dogs: Legion  
 > Wave Break  
 > Werewolf: The Apocalypse Earthblood  
+> We Were Here  
+> Winter Ember  
 > Wolfenstein II: The New Colossus  
 > Wolfenstein: Youngblood  
 > World of Warships  
 > World of Tanks Blitz  
 > World of Warcraft  
 > World of Warcraft Classic  
+> WWE 2K22  
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
+> Young Souls  
 > Yu-Gi-Oh! Duel Links  
 > Zombies Ate My Neighbors and Ghoul Patrol  
