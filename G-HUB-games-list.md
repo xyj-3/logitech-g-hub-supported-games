@@ -1,10 +1,10 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.8.302942**, released on 2022/08/30. [This is an unofficial list and I am not affiliated with Logitech.]
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.9**, released on 2022/09/11. [This is an unofficial list and I am not affiliated with Logitech.]
 
-If you are looking in particular for a list of games that have Lightsync game-driven/integrated lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that the list you are on shows games that can have _custom profiles_ in G HUB for Logitech devices (i.e. key assignments, mouse sensitivity, and Lightsync effects _excluding game-driven ones_),                 while the game-driven list contains games that automatically control the lighting on Lightsync devices to synchronize with in-game events.
+_If you are looking in particular for a list of games that have Lightsync game-synchronous lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that the list you are currently on shows games that can have custom profiles in G HUB (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-synced ones),                 while the game-driven list is for games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
-There are 444 games on this list.
+There are 450 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -217,6 +217,7 @@ There are 444 games on this list.
 > Flight Simulator X  
 > Football Manager 2020  
 > Football Manager 2021  
+> Football Manager 2022  
 > Fortnite  
 > For Honor  
 > Garrys Mod  
@@ -282,8 +283,10 @@ There are 444 games on this list.
 > Lumberhill  
 > Madden NFL 21  
 > Madden NFL 22  
+> Madden NFL 23  
 > Marvel's Avengers  
 > Marvel's Guardians of the Galaxy  
+> Marvels Spider-Man Remastered  
 > Mass Effect Legendary Edition  
 > Mass Effect: Andromeda  
 > METAL GEAR SOLID V: THE PHANTOM PAIN  
@@ -302,6 +305,7 @@ There are 444 games on this list.
 > Mount and Blade 2 Bannerlord  
 > Mount & Blade: Warband  
 > Muck  
+> MultiVersus  
 > NARAKA: BLADEPOINT  
 > NASCAR 21: Ignition  
 > NBA 2K20  
@@ -356,10 +360,12 @@ There are 444 games on this list.
 > Roguebook  
 > Rogue Company  
 > Ruined King: A League of Legends Story  
+> Rumbleverse  
 > Rune Factory 4  
 > Rune II Decapitation Edition  
 > Rust  
 > Rustler  
+> Saints Row  
 > Sakuna Of Rice and Ruin  
 > Satisfactory  
 > Scarlet Nexus  
