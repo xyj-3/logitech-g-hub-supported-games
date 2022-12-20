@@ -1,10 +1,10 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.9**, released on 2022/09/11. [This is an unofficial list and I am not affiliated with Logitech.]
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.12**, released on 2022/12/14. [This is an unofficial list and I am not affiliated with Logitech.]
 
 _If you are looking in particular for a list of games that have Lightsync game-synchronous lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that the list you are currently on shows games that can have custom profiles in G HUB (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-synced ones),                 while the game-driven list is for games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
-There are 450 games on this list.
+There are 479 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -44,6 +44,7 @@ There are 450 games on this list.
 > ASTRONEER  
 > Audiosurf  
 > Automobilista 2  
+> A Plague Tale: Requiem  
 > A Plague Tale: Innocence  
 > A Way Out  
 > Babylon's Fall  
@@ -100,6 +101,7 @@ There are 450 games on this list.
 > Call of Duty : Infinite Warfare  
 > Call of Duty: Modern Warfare 2019  
 > Call of Duty: Modern Warfare 3  
+> Call of Duty: Modern Warfare II  
 > Call of Duty Vanguard  
 > Call of Duty: WWII  
 > Capcom Arcade Stadium  
@@ -118,6 +120,7 @@ There are 450 games on this list.
 > Company of Heroes 2  
 > Conan Exiles  
 > Conflict Desert Storm  
+> Construction Simulator  
 > Counter Strike  
 > Counter-Strike: Condition Zero  
 > Counter-Strike: Condition Zero Deleted Scenes  
@@ -131,6 +134,7 @@ There are 450 games on this list.
 > Crysis 3  
 > Crysis remastered  
 > Crysis Warhead  
+> Cult of the Lamb  
 > Curved Space  
 > Cyberpunk 2077  
 > Darksiders  
@@ -161,6 +165,7 @@ There are 450 games on this list.
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
 > APPLICATION_NAME_DESKTOP  
 > Destiny 2  
+> Destroy All Humans! 2 - Reprobed  
 > Deus Ex: Mankind Divided  
 > Devil May Cry V  
 > Diablo III  
@@ -169,6 +174,7 @@ There are 450 games on this list.
 > Disco Elysium The Final Cut  
 > Dishonored  
 > Dishonored 2  
+> Disney Dreamlight Valley  
 > Divinity Original Sin 2  
 > Don't Starve Together  
 > DOOM  
@@ -176,11 +182,13 @@ There are 450 games on this list.
 > Dota 2  
 > Dota Underlords  
 > Dragon Age: Inquisition  
+> DRAGON BALL: THE BREAKERS  
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
 > Dragon Quest XI: Echoes of an Elusive Age  
 > Dune: Spice Wars  
 > Dying Light  
 > Dying Light 2 Stay Human  
+> EA SPORTS FIFA 23  
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
 > Elden Ring  
@@ -194,6 +202,7 @@ There are 450 games on this list.
 > F1 2020  
 > F1 2021  
 > F1 22  
+> F1 Manager 2022  
 > Factorio  
 > Fallen Knight  
 > Fallout 4  
@@ -231,6 +240,7 @@ There are 450 games on this list.
 > Goat Simulator  
 > Godfall  
 > God of War  
+> Gotham Knights  
 > Grand Theft Auto V  
 > Greedfall  
 > Grim Dawn  
@@ -238,6 +248,7 @@ There are 450 games on this list.
 > GUILTY GEAR -STRIVE-  
 > Half-Life 2  
 > Halo Infinite  
+> Hard West 2  
 > Hearthstone  
 > Hearts of Iron IV  
 > Heavenly Bodies  
@@ -257,6 +268,7 @@ There are 450 games on this list.
 > It Takes Two  
 > Star Wars Jedi: Fallen Order  
 > JETT: The Far Shore  
+> JoJos Bizarre Adventure: All-Star Battle  
 > Just DIe Already  
 > Kerbal Space Program  
 > KeyWe  
@@ -291,6 +303,7 @@ There are 450 games on this list.
 > Mass Effect: Andromeda  
 > METAL GEAR SOLID V: THE PHANTOM PAIN  
 > Metal Gear Survive  
+> Metal: Hellsinger  
 > Metro Exodus  
 > Microsoft Flight Simulator  
 > Middle-earth: Shadow of Mordor  
@@ -311,8 +324,10 @@ There are 450 games on this list.
 > NBA 2K20  
 > NBA 2K21  
 > NBA 2K22  
+> NBA 2K23  
 > Need for Speed Heat  
 > Need for Speed Undercover  
+> New Tales from the Borderlands  
 > New World  
 > NGU Idle  
 > Nickelodeon All-Star Brawl  
@@ -323,8 +338,9 @@ There are 450 games on this list.
 > One Hand Clapping  
 > Orcs Must Die 3  
 > Outriders  
-> Overwatch  
+> Overwatch 2  
 > Oxygen Not Included  
+> PAC-MAN WORLD Re-PAC  
 > Paladins  
 > Path of Exile  
 > PAYDAY 2  
@@ -359,6 +375,7 @@ There are 450 games on this list.
 > Rocket Arena  
 > Roguebook  
 > Rogue Company  
+> Rollerdrome  
 > Ruined King: A League of Legends Story  
 > Rumbleverse  
 > Rune Factory 4  
@@ -369,9 +386,12 @@ There are 450 games on this list.
 > Sakuna Of Rice and Ruin  
 > Satisfactory  
 > Scarlet Nexus  
+> Scorn  
 > SCUM  
 > Sea of Thieves  
 > Sekiro: Shadows Die Twice  
+> Serial Cleaners  
+> Session: Skate Sim  
 > Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
 > Sherlock Holmes: Crimes & Punishments  
@@ -385,6 +405,8 @@ There are 450 games on this list.
 > SMITE  
 > Sniper Elite 5  
 > SnowRunner  
+> Soulstice  
+> Soul Hackers 2  
 > South Park The Fractured But Whole  
 > Spacebase Startopia  
 > Space Engineers  
@@ -392,7 +414,9 @@ There are 450 games on this list.
 > Stardew Valley  
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
+> Steelrising  
 > Stellaris  
+> Stranded: Alien Dawn  
 > Stranger of Paradise: Final Fantasy Origin  
 > Stray  
 > Stronghold Warlords  
@@ -407,6 +431,7 @@ There are 450 games on this list.
 > The Club  
 > The Darkness II  
 > The Dark Pictures Anthology: House of Ashes  
+> The DioField Chronicle  
 > The Elder Scrolls Online  
 > The Elder Scrolls V: Skyrim Special Edition  
 > The Evil Within 2  
@@ -416,6 +441,7 @@ There are 450 games on this list.
 > The Sims 4  
 > The Surge 2  
 > The Witcher 3  
+> Thymesia  
 > Tiny Tina's Wonderland  
 > Titanfall 2  
 > Tom Clancy's The Division  
@@ -425,8 +451,10 @@ There are 450 games on this list.
 > Total War: ROME II - Emperor Edition  
 > Total War: THREE KINGDOMS  
 > Total War: WARHAMMER II  
+> Train Life - A Railway Simulator  
 > Tunic  
 > Twelve Minutes  
+> Two Point Campus  
 > Untitled Goose Game  
 > Unturned  
 > Valheim  
@@ -441,6 +469,7 @@ There are 450 games on this list.
 > WAR THUNDER  
 > Watch Dogs: Legion  
 > Wave Break  
+> Way of the Hunter  
 > Werewolf: The Apocalypse Earthblood  
 > We Were Here  
 > Winter Ember  
