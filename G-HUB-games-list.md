@@ -1,10 +1,10 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2022.12**, released on 2022/12/14. [This is an unofficial list and I am not affiliated with Logitech.]
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2023.1**, released on 2023/01/30. This is an unofficial list, but it should be complete.
 
 _If you are looking in particular for a list of games that have Lightsync game-synchronous lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that the list you are currently on shows games that can have custom profiles in G HUB (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-synced ones),                 while the game-driven list is for games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
-There are 479 games on this list.
+There are 493 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -15,6 +15,7 @@ There are 479 games on this list.
 > Aim Lab  
 > Aion  
 > Alan Wake Remastered  
+> Alba: A Wildlife Adventure  
 > Alex Kidd in Miracle World DX  
 > Aliens: Colonial Marines Collection  
 > Aliens Fireteam Elite  
@@ -74,6 +75,7 @@ There are 479 games on this list.
 > Bioshock  
 > BioShock 2  
 > BioShock Infinite  
+> BLACKTAIL  
 > Black Desert Online Remastered  
 > Blair Witch  
 > Bless Unleashed  
@@ -113,6 +115,7 @@ There are 479 games on this list.
 > Chinatown Detective Agency  
 > Chivalry 2  
 > Chivalry: Medieval Warfare  
+> Choo-Choo Charles  
 > Chorus  
 > Chrono Trigger  
 > Cities Skylines  
@@ -128,6 +131,7 @@ There are 479 games on this list.
 > Counter-Strike: Source  
 > Crashday  
 > Crash Bandicoot 4 It's About Time  
+> CRISIS CORE FINAL FANTASY VII REUNION  
 > Crusader Kings II  
 > Cryostasis  
 > Crysis 2  
@@ -198,6 +202,7 @@ There are 479 games on this list.
 > Europa Universalis IV  
 > Euro Truck Simulator 2  
 > Evil Genius 2 World Domination  
+> Evil West  
 > Expeditions Rome  
 > F1 2020  
 > F1 2021  
@@ -252,6 +257,7 @@ There are 479 games on this list.
 > Hearthstone  
 > Hearts of Iron IV  
 > Heavenly Bodies  
+> Hello Neighbor 2  
 > Hell Let Loose  
 > Heroes of the Storm  
 > Hitman 2  
@@ -266,6 +272,7 @@ There are 479 games on this list.
 > Immortals Fenyx Rising  
 > Insurgency: Sandstorm  
 > It Takes Two  
+> IXION  
 > Star Wars Jedi: Fallen Order  
 > JETT: The Far Shore  
 > JoJos Bizarre Adventure: All-Star Battle  
@@ -298,6 +305,8 @@ There are 479 games on this list.
 > Madden NFL 23  
 > Marvel's Avengers  
 > Marvel's Guardians of the Galaxy  
+> Marvels Midnight Suns  
+> Marvels Spider-Man Miles Morales  
 > Marvels Spider-Man Remastered  
 > Mass Effect Legendary Edition  
 > Mass Effect: Andromeda  
@@ -354,6 +363,7 @@ There are 479 games on this list.
 > Postal 4  
 > Project CARS 2  
 > Project CARS 3  
+> Project Zomboid  
 > Psychonauts 2  
 > Puyo Puyo Tetris 2  
 > RaceRoom Racing Experience  
@@ -405,6 +415,7 @@ There are 479 games on this list.
 > SMITE  
 > Sniper Elite 5  
 > SnowRunner  
+> Sonic Frontiers  
 > Soulstice  
 > Soul Hackers 2  
 > South Park The Fractured But Whole  
@@ -428,6 +439,7 @@ There are 479 games on this list.
 > The Ascent  
 > The Banner Saga 3  
 > The Binding of Isaac: Rebirth  
+> The Callisto Protocol  
 > The Club  
 > The Darkness II  
 > The Dark Pictures Anthology: House of Ashes  
@@ -455,6 +467,7 @@ There are 479 games on this list.
 > Tunic  
 > Twelve Minutes  
 > Two Point Campus  
+> Undecember  
 > Untitled Goose Game  
 > Unturned  
 > Valheim  
@@ -466,6 +479,7 @@ There are 479 games on this list.
 > Warframe  
 > Warhammer 40,000: Battlesector  
 > Warhammer 40,000: Chaos Gate - Daemonhunters  
+> Warhammer 40,000: Darktide  
 > WAR THUNDER  
 > Watch Dogs: Legion  
 > Wave Break  
