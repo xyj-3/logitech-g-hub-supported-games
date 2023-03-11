@@ -1,10 +1,10 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version **2023.1**, released on 2023/01/30. This is an unofficial list, but it should be complete.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.2, released on 2023/02/22. This is an unofficial list, but it should be complete.
 
 _If you are looking in particular for a list of games that have Lightsync game-synchronous lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that the list you are currently on shows games that can have custom profiles in G HUB (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-synced ones),                 while the game-driven list is for games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
-There are 493 games on this list.
+There are 501 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -159,6 +159,7 @@ There are 493 games on this list.
 > Dead Island  
 > Dead Rising 2  
 > Dead Rising 3  
+> Dead Space  
 > Dead Space 2  
 > Dead Space 3  
 > Deathloop  
@@ -229,6 +230,7 @@ There are 493 games on this list.
 > FINAL FANTASY VII REMAKE INTERGRADE  
 > Final Fantasy XIV  
 > Flight Simulator X  
+> Floodland  
 > Football Manager 2020  
 > Football Manager 2021  
 > Football Manager 2022  
@@ -243,6 +245,7 @@ There are 493 games on this list.
 > Tom Clancy's Ghost Recon Wildlands  
 > Glitchpunk  
 > Goat Simulator  
+> Goat Simulator 3  
 > Godfall  
 > God of War  
 > Gotham Knights  
@@ -260,6 +263,7 @@ There are 493 games on this list.
 > Hello Neighbor 2  
 > Hell Let Loose  
 > Heroes of the Storm  
+> High On Life  
 > Hitman 2  
 > Hitman 3  
 > Hoa  
@@ -277,6 +281,7 @@ There are 493 games on this list.
 > JETT: The Far Shore  
 > JoJos Bizarre Adventure: All-Star Battle  
 > Just DIe Already  
+> KartRider Drift  
 > Kerbal Space Program  
 > KeyWe  
 > Kingdom Hearts HD 2.8 Final Chapter Prologue  
@@ -336,6 +341,7 @@ There are 493 games on this list.
 > NBA 2K23  
 > Need for Speed Heat  
 > Need for Speed Undercover  
+> Neptunia:Sisters VS Sisters  
 > New Tales from the Borderlands  
 > New World  
 > NGU Idle  
@@ -411,6 +417,7 @@ There are 493 games on this list.
 > Sid Meier's Civilization V  
 > Sid Meier's: Civilization VI  
 > Sifu  
+> SimRail The Railway Simulator  
 > Slay the spire  
 > SMITE  
 > Sniper Elite 5  
@@ -440,6 +447,7 @@ There are 493 games on this list.
 > The Banner Saga 3  
 > The Binding of Isaac: Rebirth  
 > The Callisto Protocol  
+> The Chant  
 > The Club  
 > The Darkness II  
 > The Dark Pictures Anthology: House of Ashes  
