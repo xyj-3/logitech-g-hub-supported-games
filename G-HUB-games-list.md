@@ -1,10 +1,10 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.2, released on 2023/02/22. This is an unofficial list, but it should be complete.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.3, released on 2023/04/11. This is an unofficial list, but it should be complete.
 
 _If you are looking in particular for a list of games that have Lightsync game-synchronous lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that the list you are currently on shows games that can have custom profiles in G HUB (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-synced ones),                 while the game-driven list is for games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
 
-There are 501 games on this list.
+There are 516 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -141,6 +141,7 @@ There are 501 games on this list.
 > Cult of the Lamb  
 > Curved Space  
 > Cyberpunk 2077  
+> Darkest Dungeon II  
 > Darksiders  
 > Darksiders II  
 > Darksiders III  
@@ -167,6 +168,7 @@ There are 501 games on this list.
 > DeathSpank: Thongs Of Virtue  
 > Death Stranding  
 > Death Trash  
+> Demon Dark I  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
 > APPLICATION_NAME_DESKTOP  
 > Destiny 2  
@@ -192,6 +194,7 @@ There are 501 games on this list.
 > Dragon Quest XI: Echoes of an Elusive Age  
 > Dune: Spice Wars  
 > Dying Light  
+> Dying Light 2 Stay Human  
 > Dying Light 2 Stay Human  
 > EA SPORTS FIFA 23  
 > Edge of Eternity  
@@ -229,13 +232,17 @@ There are 501 games on this list.
 > Fighter Ace 2  
 > FINAL FANTASY VII REMAKE INTERGRADE  
 > Final Fantasy XIV  
+> First Class Trouble  
+> FIST Forged In Shadow Torch  
 > Flight Simulator X  
 > Floodland  
 > Football Manager 2020  
 > Football Manager 2021  
 > Football Manager 2022  
+> Football Manager 2023  
 > Fortnite  
 > For Honor  
+> Frostpunk  
 > Garrys Mod  
 > Gears 5  
 > Genshin Impact  
@@ -248,6 +255,7 @@ There are 501 games on this list.
 > Goat Simulator 3  
 > Godfall  
 > God of War  
+> Goose Goose Duck  
 > Gotham Knights  
 > Grand Theft Auto V  
 > Greedfall  
@@ -266,7 +274,9 @@ There are 501 games on this list.
 > High On Life  
 > Hitman 2  
 > Hitman 3  
+> HITMAN World of Assassination  
 > Hoa  
+> Hogwarts Legacy  
 > Hollow knight  
 > Horizon Zero Dawn Complete Edition  
 > HUMANKIND  
@@ -308,6 +318,7 @@ There are 501 games on this list.
 > Madden NFL 21  
 > Madden NFL 22  
 > Madden NFL 23  
+> Magic The Gathering Arena  
 > Marvel's Avengers  
 > Marvel's Guardians of the Galaxy  
 > Marvels Midnight Suns  
@@ -359,6 +370,7 @@ There are 501 games on this list.
 > Paladins  
 > Path of Exile  
 > PAYDAY 2  
+> PC Building Simulator 2  
 > Persona 4 Arena Ultimax  
 > Persona 4 Golden  
 > Persona 5 Strikers  
@@ -399,6 +411,7 @@ There are 501 games on this list.
 > Rust  
 > Rustler  
 > Saints Row  
+> Saints Row IV: Re-Elected  
 > Sakuna Of Rice and Ruin  
 > Satisfactory  
 > Scarlet Nexus  
@@ -443,6 +456,7 @@ There are 501 games on this list.
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
 > Terraria  
+> The Hunter Call of the Wild  
 > The Ascent  
 > The Banner Saga 3  
 > The Binding of Isaac: Rebirth  
@@ -480,6 +494,7 @@ There are 501 games on this list.
 > Unturned  
 > Valheim  
 > Valorant  
+> Vampire Survivors  
 > Vampire: The Masquerade - Bloodhunt  
 > Vaporum: Lockdown  
 > V Rising  
