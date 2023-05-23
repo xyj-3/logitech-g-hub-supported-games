@@ -2,8 +2,6 @@
 
 This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.3, released on 2023/04/11. This is an unofficial list, but it should be complete.
 
-_If you are looking in particular for a list of games that have Lightsync game-synchronous lighting, a list of known games is [here](https://github.com/xyj-3/lightsync-games).             The difference is that the list you are currently on shows games that can have custom profiles in G HUB (i.e. custom key assignments, mouse sensitivity, and Lightsync effects excluding game-synced ones),                 while the game-driven list is for games that automatically control the lighting on Lightsync devices to synchronize with in-game events._
-
 There are 516 games on this list.
 
 > 007 Legends  
