@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.3, released on 2023/04/11. This is an unofficial list, but it should be complete.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.4, released on 2023/05/24.
 
-There are 516 games on this list.
+There are 526 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -41,6 +41,7 @@ There are 516 games on this list.
 > Assetto Corsa  
 > Assetto Corsa Competizione  
 > ASTRONEER  
+> Atomic Heart  
 > Audiosurf  
 > Automobilista 2  
 > A Plague Tale: Requiem  
@@ -166,6 +167,7 @@ There are 516 games on this list.
 > DeathSpank: Thongs Of Virtue  
 > Death Stranding  
 > Death Trash  
+> Deceive Inc  
 > Demon Dark I  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
 > APPLICATION_NAME_DESKTOP  
@@ -179,6 +181,7 @@ There are 516 games on this list.
 > Disco Elysium The Final Cut  
 > Dishonored  
 > Dishonored 2  
+> Dishonored-Definitive Edition  
 > Disney Dreamlight Valley  
 > Divinity Original Sin 2  
 > Don't Starve Together  
@@ -205,6 +208,7 @@ There are 516 games on this list.
 > Euro Truck Simulator 2  
 > Evil Genius 2 World Domination  
 > Evil West  
+> Eximius: Seize the Frontline  
 > Expeditions Rome  
 > F1 2020  
 > F1 2021  
@@ -228,6 +232,7 @@ There are 516 games on this list.
 > Final Fantasy VIII - Remastered  
 > FIFA 22  
 > Fighter Ace 2  
+> FINAL FANTASY IX  
 > FINAL FANTASY VII REMAKE INTERGRADE  
 > Final Fantasy XIV  
 > First Class Trouble  
@@ -282,6 +287,7 @@ There are 516 games on this list.
 > Hunt:Showdown  
 > Hyper Scape  
 > Immortals Fenyx Rising  
+> Innchanted  
 > Insurgency: Sandstorm  
 > It Takes Two  
 > IXION  
@@ -359,6 +365,7 @@ There are 516 games on this list.
 > Nioh 2 - The Complete Edition  
 > No Man's Sky  
 > Nuts  
+> OCTOPATH TRAVELER II  
 > One Hand Clapping  
 > Orcs Must Die 3  
 > Outriders  
@@ -392,6 +399,7 @@ There are 516 games on this list.
 > Resident Evil Village  
 > Resident Evil 2  
 > Resident Evil 3  
+> Resident Evil 4  
 > RESONANCE OF FATE/END OF ETERNITY 4K/HD EDITION  
 > rFactor  
 > Riders Republic  
@@ -454,6 +462,7 @@ There are 516 games on this list.
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
 > Terraria  
+> Terra Nil  
 > The Hunter Call of the Wild  
 > The Ascent  
 > The Banner Saga 3  
@@ -518,5 +527,6 @@ There are 516 games on this list.
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
 > Young Souls  
+> Your Only Move Is HUSTLE  
 > Yu-Gi-Oh! Duel Links  
 > Zombies Ate My Neighbors and Ghoul Patrol  
