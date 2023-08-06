@@ -1,14 +1,15 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.4, released on 2023/05/24.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.6, released on 2023/07/20.
 
-There are 526 games on this list.
+There are 538 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
 > 7 Days to Die  
 > Age of Empires 2 Definitive Edition  
 > Age of Empires IV  
+> Age of Wonders 4  
 > Age of Wonders: Planetfall  
 > Aim Lab  
 > Aion  
@@ -120,6 +121,7 @@ There are 526 games on this list.
 > Cities Skylines  
 > Cold Zero  
 > Company of Heroes 2  
+> Company of Heroes 3  
 > Conan Exiles  
 > Conflict Desert Storm  
 > Construction Simulator  
@@ -130,6 +132,7 @@ There are 526 games on this list.
 > Counter-Strike: Source  
 > Crashday  
 > Crash Bandicoot 4 It's About Time  
+> Crime Boss Rockay City  
 > CRISIS CORE FINAL FANTASY VII REUNION  
 > Crusader Kings II  
 > Cryostasis  
@@ -155,8 +158,10 @@ There are 526 games on this list.
 > DayZ  
 > DCS World Steam Edition  
 > Deadlight  
+> Deadnaut Signal Lost  
 > Dead by Daylight  
 > Dead Island  
+> Dead Island 2  
 > Dead Rising 2  
 > Dead Rising 3  
 > Dead Space  
@@ -176,6 +181,7 @@ There are 526 games on this list.
 > Deus Ex: Mankind Divided  
 > Devil May Cry V  
 > Diablo III  
+> Diablo IV  
 > DiRT RALLY  
 > DiRT Rally 2.0  
 > Disco Elysium The Final Cut  
@@ -183,6 +189,7 @@ There are 526 games on this list.
 > Dishonored 2  
 > Dishonored-Definitive Edition  
 > Disney Dreamlight Valley  
+> Divine Knockout  
 > Divinity Original Sin 2  
 > Don't Starve Together  
 > DOOM  
@@ -297,6 +304,7 @@ There are 526 games on this list.
 > Just DIe Already  
 > KartRider Drift  
 > Kerbal Space Program  
+> Kerbal Space Program 2  
 > KeyWe  
 > Kingdom Hearts HD 2.8 Final Chapter Prologue  
 > Kingdom Hearts HD 1.5 + 2.5 ReMix  
@@ -427,6 +435,7 @@ There are 526 games on this list.
 > Sekiro: Shadows Die Twice  
 > Serial Cleaners  
 > Session: Skate Sim  
+> Shadow Tactics Aikos Choice  
 > Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
 > Sherlock Holmes: Crimes & Punishments  
@@ -451,8 +460,9 @@ There are 526 games on this list.
 > Stardew Valley  
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
+> STAR WARS Jedi Survivor  
 > Steelrising  
-> Stellaris  
+> Stellaris Galactic Paragons  
 > Stranded: Alien Dawn  
 > Stranger of Paradise: Final Fantasy Origin  
 > Stray  
@@ -477,6 +487,7 @@ There are 526 games on this list.
 > The Elder Scrolls V: Skyrim Special Edition  
 > The Evil Within 2  
 > The Forest  
+> The Last Of Us Part 1  
 > Lord of the Rings Online  
 > The Outer Worlds  
 > The Sims 4  
@@ -504,6 +515,7 @@ There are 526 games on this list.
 > Vampire Survivors  
 > Vampire: The Masquerade - Bloodhunt  
 > Vaporum: Lockdown  
+> Voidtrain  
 > V Rising  
 > Wallpaper Engine  
 > Warframe  
