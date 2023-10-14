@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.6, released on 2023/07/20.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.8, released on 2023/09/20.
 
-There are 538 games on this list.
+There are 560 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -13,10 +13,12 @@ There are 538 games on this list.
 > Age of Wonders: Planetfall  
 > Aim Lab  
 > Aion  
+> Airborne Kingdom  
 > Alan Wake Remastered  
 > Alba: A Wildlife Adventure  
 > Alex Kidd in Miracle World DX  
 > Aliens: Colonial Marines Collection  
+> Aliens Dark Descent  
 > Aliens Fireteam Elite  
 > Aliens versus Predator Classic 2000  
 > Aliens vs. Predator  
@@ -56,6 +58,7 @@ There are 538 games on this list.
 > Batman: Arkham City  
 > Batman: Arkham Knight  
 > Batman: Arkham Origins  
+> BattleBit Remastered  
 > Battleborn  
 > Battlefield 1  
 > Battlefield 2  
@@ -135,6 +138,7 @@ There are 538 games on this list.
 > Crime Boss Rockay City  
 > CRISIS CORE FINAL FANTASY VII REUNION  
 > Crusader Kings II  
+> Crusader Kings III  
 > Cryostasis  
 > Crysis 2  
 > Crysis 3  
@@ -173,6 +177,8 @@ There are 538 games on this list.
 > Death Stranding  
 > Death Trash  
 > Deceive Inc  
+> Deep Rock Galactic  
+> Deliver Us Mars  
 > Demon Dark I  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
 > APPLICATION_NAME_DESKTOP  
@@ -216,10 +222,12 @@ There are 538 games on this list.
 > Evil Genius 2 World Domination  
 > Evil West  
 > Eximius: Seize the Frontline  
+> Exoprimal  
 > Expeditions Rome  
 > F1 2020  
 > F1 2021  
 > F1 22  
+> F1 23  
 > F1 Manager 2022  
 > Factorio  
 > Fallen Knight  
@@ -270,8 +278,10 @@ There are 538 games on this list.
 > Grand Theft Auto V  
 > Greedfall  
 > Grim Dawn  
+> Grounded  
 > Guild Wars 2  
 > GUILTY GEAR -STRIVE-  
+> GYLT  
 > Half-Life 2  
 > Halo Infinite  
 > Hard West 2  
@@ -294,6 +304,7 @@ There are 538 games on this list.
 > Hunt:Showdown  
 > Hyper Scape  
 > Immortals Fenyx Rising  
+> Immortals Of Aveum  
 > Innchanted  
 > Insurgency: Sandstorm  
 > It Takes Two  
@@ -375,6 +386,7 @@ There are 538 games on this list.
 > Nuts  
 > OCTOPATH TRAVELER II  
 > One Hand Clapping  
+> Only Up  
 > Orcs Must Die 3  
 > Outriders  
 > Overwatch 2  
@@ -386,6 +398,7 @@ There are 538 games on this list.
 > PC Building Simulator 2  
 > Persona 4 Arena Ultimax  
 > Persona 4 Golden  
+> Persona 5 Royal  
 > Persona 5 Strikers  
 > Phantasy Star Online 2 New Genesis  
 > Photoshop CC  
@@ -403,7 +416,9 @@ There are 538 games on this list.
 > Tom Clancy's Rainbow Six Extraction  
 > Rainbow Six Siege  
 > Rainbow Six Vegas  
+> Ready or Not  
 > Red Dead Redemption 2  
+> Remnant II  
 > Resident Evil Village  
 > Resident Evil 2  
 > Resident Evil 3  
@@ -412,6 +427,7 @@ There are 538 games on this list.
 > rFactor  
 > Riders Republic  
 > Rim World  
+> Rise of the Tomb Raider  
 > Road 96  
 > Rocket League  
 > Rocket Arena  
@@ -435,6 +451,7 @@ There are 538 games on this list.
 > Sekiro: Shadows Die Twice  
 > Serial Cleaners  
 > Session: Skate Sim  
+> Shadow Complex Remastered  
 > Shadow Tactics Aikos Choice  
 > Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
@@ -466,9 +483,11 @@ There are 538 games on this list.
 > Stranded: Alien Dawn  
 > Stranger of Paradise: Final Fantasy Origin  
 > Stray  
+> Street Fighter 6  
 > Stronghold Warlords  
 > Super Magbot  
 > Super Monkey Ball Banana Mania  
+> System Shock  
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
 > Terraria  
@@ -490,6 +509,7 @@ There are 538 games on this list.
 > The Last Of Us Part 1  
 > Lord of the Rings Online  
 > The Outer Worlds  
+> The Outlast Trials  
 > The Sims 4  
 > The Surge 2  
 > The Witcher 3  
@@ -504,6 +524,7 @@ There are 538 games on this list.
 > Total War: THREE KINGDOMS  
 > Total War: WARHAMMER II  
 > Train Life - A Railway Simulator  
+> Trepang2  
 > Tunic  
 > Twelve Minutes  
 > Two Point Campus  
@@ -535,6 +556,7 @@ There are 538 games on this list.
 > World of Tanks Blitz  
 > World of Warcraft  
 > World of Warcraft Classic  
+> Wo Long Fallen Dynasty  
 > WWE 2K22  
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
