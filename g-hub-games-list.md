@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.8, released on 2023/09/20.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.9, released on 2023/10/18.
 
-There are 560 games on this list.
+There are 572 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -32,6 +32,7 @@ There are 560 games on this list.
 > ARK: Survival Evolved  
 > ARK: Survival of the Fittest  
 > Arma 3  
+> ARMORED CORE VI FIRES OF RUBICON  
 > Assassin's Creed  
 > Assassin's Creed Brotherhood  
 > Assassin's Creed 2  
@@ -86,6 +87,7 @@ There are 560 games on this list.
 > Bloons TD 6  
 > Blue Fire  
 > Blur  
+> Bomb Rush Cyberfunk  
 > Book of Demons  
 > Book of Travels Chapter Zero  
 > Borderlands  
@@ -129,9 +131,9 @@ There are 560 games on this list.
 > Conflict Desert Storm  
 > Construction Simulator  
 > Counter Strike  
+> Counter-Strike 2  
 > Counter-Strike: Condition Zero  
 > Counter-Strike: Condition Zero Deleted Scenes  
-> Counter-Strike: Global Offensive  
 > Counter-Strike: Source  
 > Crashday  
 > Crash Bandicoot 4 It's About Time  
@@ -260,6 +262,7 @@ There are 560 games on this list.
 > Football Manager 2023  
 > Fortnite  
 > For Honor  
+> Frank and Drake  
 > Frostpunk  
 > Garrys Mod  
 > Gears 5  
@@ -341,6 +344,7 @@ There are 560 games on this list.
 > Madden NFL 21  
 > Madden NFL 22  
 > Madden NFL 23  
+> Madden NFL 24  
 > Magic The Gathering Arena  
 > Marvel's Avengers  
 > Marvel's Guardians of the Galaxy  
@@ -373,6 +377,7 @@ There are 560 games on this list.
 > NBA 2K21  
 > NBA 2K22  
 > NBA 2K23  
+> NBA 2K24  
 > Need for Speed Heat  
 > Need for Speed Undercover  
 > Neptunia:Sisters VS Sisters  
@@ -447,11 +452,14 @@ There are 560 games on this list.
 > Scarlet Nexus  
 > Scorn  
 > SCUM  
+> Sea of Stars  
 > Sea of Thieves  
 > Sekiro: Shadows Die Twice  
+> Sengoku Dynasty  
 > Serial Cleaners  
 > Session: Skate Sim  
 > Shadow Complex Remastered  
+> Shadow Gambit The Cursed Crew  
 > Shadow Tactics Aikos Choice  
 > Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
@@ -475,6 +483,7 @@ There are 560 games on this list.
 > Space Engineers  
 > Spellbreak  
 > Stardew Valley  
+> Starfield  
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
 > STAR WARS Jedi Survivor  
@@ -505,6 +514,7 @@ There are 560 games on this list.
 > The Elder Scrolls Online  
 > The Elder Scrolls V: Skyrim Special Edition  
 > The Evil Within 2  
+> The Expanse A Telltale Series  
 > The Forest  
 > The Last Of Us Part 1  
 > Lord of the Rings Online  
@@ -512,6 +522,7 @@ There are 560 games on this list.
 > The Outlast Trials  
 > The Sims 4  
 > The Surge 2  
+> The Texas Chain Saw Massacre  
 > The Witcher 3  
 > Thymesia  
 > Tiny Tina's Wonderland  
@@ -557,6 +568,7 @@ There are 560 games on this list.
 > World of Warcraft  
 > World of Warcraft Classic  
 > Wo Long Fallen Dynasty  
+> WrestleQuest  
 > WWE 2K22  
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
