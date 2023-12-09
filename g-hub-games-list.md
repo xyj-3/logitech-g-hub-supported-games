@@ -41,7 +41,8 @@ There are 572 games on this list.
 > Assassin's Creed Odyssey  
 > Assassin's Creed Origins  
 > Assassin's Creed Unity  
-> Assassins Creed Valhalla  
+> Assassins Creed Valhalla
+> Assassin’s Creed Mirage
 > Assetto Corsa  
 > Assetto Corsa Competizione  
 > ASTRONEER  
@@ -192,7 +193,8 @@ There are 572 games on this list.
 > Diablo IV  
 > DiRT RALLY  
 > DiRT Rally 2.0  
-> Disco Elysium The Final Cut  
+> Disco Elysium The Final Cut
+> Disgaea 7: Vows of the Virtueless
 > Dishonored  
 > Dishonored 2  
 > Dishonored-Definitive Edition  
@@ -243,7 +245,8 @@ There are 572 games on this list.
 > Far Cry 6  
 > Far Cry Primal  
 > FATAL FRAME / PROJECT ZERO: Maiden of Black Water  
-> Fate of the Dragon  
+> Fate of the Dragon
+> FC™ 24
 > FEAR2  
 > F.E.A.R. 3  
 > Final Fantasy VIII - Remastered  
@@ -261,7 +264,8 @@ There are 572 games on this list.
 > Football Manager 2022  
 > Football Manager 2023  
 > Fortnite  
-> For Honor  
+> For Honor
+> Forza Motorsport
 > Frank and Drake  
 > Frostpunk  
 > Garrys Mod  
@@ -365,7 +369,8 @@ There are 572 games on this list.
 > Monster Hunter Stories 2: Wings of Ruin  
 > Monster Hunter: World  
 > Moonlighter  
-> Mordhau  
+> Mordhau
+> Mortal Kombat 1
 > Mortal Kombat 11  
 > Mount and Blade 2 Bannerlord  
 > Mount & Blade: Warband  
@@ -399,7 +404,8 @@ There are 572 games on this list.
 > PAC-MAN WORLD Re-PAC  
 > Paladins  
 > Path of Exile  
-> PAYDAY 2  
+> PAYDAY 2
+> PAYDAY 3
 > PC Building Simulator 2  
 > Persona 4 Arena Ultimax  
 > Persona 4 Golden  
@@ -430,7 +436,7 @@ There are 572 games on this list.
 > Resident Evil 4  
 > RESONANCE OF FATE/END OF ETERNITY 4K/HD EDITION  
 > rFactor  
-> Riders Republic  
+> Riders Republic
 > Rim World  
 > Rise of the Tomb Raider  
 > Road 96  
@@ -507,7 +513,8 @@ There are 572 games on this list.
 > The Binding of Isaac: Rebirth  
 > The Callisto Protocol  
 > The Chant  
-> The Club  
+> The Club
+> The Crew Motorfest
 > The Darkness II  
 > The Dark Pictures Anthology: House of Ashes  
 > The DioField Chronicle  
@@ -530,7 +537,8 @@ There are 572 games on this list.
 > Tom Clancy's The Division  
 > Tom Clancy's The Division 2  
 > Tony Hawk's Pro Skater 1 + 2  
-> Totally Accurate Battlegrounds  
+> Totally Accurate Battlegrounds
+> Total War: PHARAOH
 > Total War: ROME II - Emperor Edition  
 > Total War: THREE KINGDOMS  
 > Total War: WARHAMMER II  
