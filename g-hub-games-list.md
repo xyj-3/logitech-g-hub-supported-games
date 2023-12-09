@@ -41,8 +41,8 @@ There are 572 games on this list.
 > Assassin's Creed Odyssey  
 > Assassin's Creed Origins  
 > Assassin's Creed Unity  
-> Assassins Creed Valhalla
-> Assassin’s Creed Mirage
+> Assassins Creed Valhalla  
+> Assassin’s Creed Mirage  
 > Assetto Corsa  
 > Assetto Corsa Competizione  
 > ASTRONEER  
