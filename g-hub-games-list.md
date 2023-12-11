@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.9, released on 2023/10/18.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.10, released on 2023/11/30.
 
-There are 572 games on this list.
+There are 580 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -38,6 +38,7 @@ There are 572 games on this list.
 > Assassin's Creed 2  
 > Assassin's Creed III  
 > Assassin's Creed IV Black Flag  
+> Assassins Creed Mirage  
 > Assassin's Creed Odyssey  
 > Assassin's Creed Origins  
 > Assassin's Creed Unity  
@@ -193,6 +194,7 @@ There are 572 games on this list.
 > DiRT RALLY  
 > DiRT Rally 2.0  
 > Disco Elysium The Final Cut  
+> Disgaea 7 Vows of the Virtueless  
 > Dishonored  
 > Dishonored 2  
 > Dishonored-Definitive Edition  
@@ -212,6 +214,7 @@ There are 572 games on this list.
 > Dying Light  
 > Dying Light 2 Stay Human  
 > Dying Light 2 Stay Human  
+> EA SPORTS FC 24  
 > EA SPORTS FIFA 23  
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
@@ -261,6 +264,7 @@ There are 572 games on this list.
 > Football Manager 2022  
 > Football Manager 2023  
 > Fortnite  
+> Forza Motorsport  
 > For Honor  
 > Frank and Drake  
 > Frostpunk  
@@ -366,6 +370,7 @@ There are 572 games on this list.
 > Monster Hunter: World  
 > Moonlighter  
 > Mordhau  
+> Mortal Kombat 1  
 > Mortal Kombat 11  
 > Mount and Blade 2 Bannerlord  
 > Mount & Blade: Warband  
@@ -400,6 +405,7 @@ There are 572 games on this list.
 > Paladins  
 > Path of Exile  
 > PAYDAY 2  
+> PAYDAY 3  
 > PC Building Simulator 2  
 > Persona 4 Arena Ultimax  
 > Persona 4 Golden  
@@ -508,6 +514,7 @@ There are 572 games on this list.
 > The Callisto Protocol  
 > The Chant  
 > The Club  
+> The Crew Motorfest  
 > The Darkness II  
 > The Dark Pictures Anthology: House of Ashes  
 > The DioField Chronicle  
@@ -531,6 +538,7 @@ There are 572 games on this list.
 > Tom Clancy's The Division 2  
 > Tony Hawk's Pro Skater 1 + 2  
 > Totally Accurate Battlegrounds  
+> Total War PHARAOH  
 > Total War: ROME II - Emperor Edition  
 > Total War: THREE KINGDOMS  
 > Total War: WARHAMMER II  
