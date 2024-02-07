@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2023.10, released on 2023/11/30.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.1, released on 2024/01/24.
 
-There are 580 games on this list.
+There are 588 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -110,6 +110,7 @@ There are 580 games on this list.
 > Call of Duty: Modern Warfare 2019  
 > Call of Duty: Modern Warfare 3  
 > Call of Duty: Modern Warfare II  
+> Call of Duty Modern Warfare III  
 > Call of Duty Vanguard  
 > Call of Duty: WWII  
 > Capcom Arcade Stadium  
@@ -340,7 +341,9 @@ There are 580 games on this list.
 > Left 4 Dead 2  
 > Legend of Mana  
 > LEGO Star Wars: The Skywalker Saga  
+> Lethal Company  
 > Life is Strange: True Colors  
+> Like a Dragon Gaiden The Man Who Erased His Name  
 > Little Nightmares II  
 > Little Witch in the Woods  
 > Lost Ark  
@@ -411,6 +414,7 @@ There are 580 games on this list.
 > Persona 4 Golden  
 > Persona 5 Royal  
 > Persona 5 Strikers  
+> Persona 5 Tactica  
 > Phantasy Star Online 2 New Genesis  
 > Photoshop CC  
 > PlayerUnknown's Battlegrounds  
@@ -440,6 +444,7 @@ There are 580 games on this list.
 > Rim World  
 > Rise of the Tomb Raider  
 > Road 96  
+> RoboCop Rogue City  
 > Rocket League  
 > Rocket Arena  
 > Roguebook  
@@ -523,12 +528,14 @@ There are 580 games on this list.
 > The Evil Within 2  
 > The Expanse A Telltale Series  
 > The Forest  
+> The Invincible  
 > The Last Of Us Part 1  
 > Lord of the Rings Online  
 > The Outer Worlds  
 > The Outlast Trials  
 > The Sims 4  
 > The Surge 2  
+> The Talos Principle 2  
 > The Texas Chain Saw Massacre  
 > The Witcher 3  
 > Thymesia  
@@ -562,6 +569,7 @@ There are 580 games on this list.
 > Warhammer 40,000: Battlesector  
 > Warhammer 40,000: Chaos Gate - Daemonhunters  
 > Warhammer 40,000: Darktide  
+> Warhammer Age of Sigmar Realms of Ruin  
 > WAR THUNDER  
 > Watch Dogs: Legion  
 > Wave Break  
