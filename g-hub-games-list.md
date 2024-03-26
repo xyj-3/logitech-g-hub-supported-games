@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.1, released on 2024/01/24.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.2, released on 2024/03/06.
 
-There are 588 games on this list.
+There are 598 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -49,6 +49,7 @@ There are 588 games on this list.
 > Atomic Heart  
 > Audiosurf  
 > Automobilista 2  
+> Avatar Frontiers of Pandora  
 > A Plague Tale: Requiem  
 > A Plague Tale: Innocence  
 > A Way Out  
@@ -219,7 +220,7 @@ There are 588 games on this list.
 > EA SPORTS FIFA 23  
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
-> Elden Ring  
+> ELDEN RING  
 > ELEX II  
 > Elite Dangerous  
 > Escape From Tarkov  
@@ -296,6 +297,7 @@ There are 588 games on this list.
 > Hearthstone  
 > Hearts of Iron IV  
 > Heavenly Bodies  
+> HELLDIVERS 2  
 > Hello Neighbor 2  
 > Hell Let Loose  
 > Heroes of the Storm  
@@ -344,6 +346,7 @@ There are 588 games on this list.
 > Lethal Company  
 > Life is Strange: True Colors  
 > Like a Dragon Gaiden The Man Who Erased His Name  
+> Like a Dragon: Infinite Wealth  
 > Little Nightmares II  
 > Little Witch in the Woods  
 > Lost Ark  
@@ -354,7 +357,7 @@ There are 588 games on this list.
 > Madden NFL 24  
 > Magic The Gathering Arena  
 > Marvel's Avengers  
-> Marvel's Guardians of the Galaxy  
+> Marvels Guardians of the Galaxy  
 > Marvels Midnight Suns  
 > Marvels Spider-Man Miles Morales  
 > Marvels Spider-Man Remastered  
@@ -398,6 +401,7 @@ There are 588 games on this list.
 > No Man's Sky  
 > Nuts  
 > OCTOPATH TRAVELER II  
+> Once Human  
 > One Hand Clapping  
 > Only Up  
 > Orcs Must Die 3  
@@ -406,6 +410,7 @@ There are 588 games on this list.
 > Oxygen Not Included  
 > PAC-MAN WORLD Re-PAC  
 > Paladins  
+> Palworld  
 > Path of Exile  
 > PAYDAY 2  
 > PAYDAY 3  
@@ -420,6 +425,7 @@ There are 588 games on this list.
 > PlayerUnknown's Battlegrounds  
 > Police Simulator: Patrol Officers  
 > Postal 4  
+> Prince of Persia: The Lost Crown  
 > Project CARS 2  
 > Project CARS 3  
 > Project Zomboid  
@@ -505,11 +511,13 @@ There are 588 games on this list.
 > Stray  
 > Street Fighter 6  
 > Stronghold Warlords  
+> Suicide Squad: Kill the Justice League  
 > Super Magbot  
 > Super Monkey Ball Banana Mania  
 > System Shock  
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
+> TEKKEN 8  
 > Terraria  
 > Terra Nil  
 > The Hunter Call of the Wild  
@@ -527,6 +535,7 @@ There are 588 games on this list.
 > The Elder Scrolls V: Skyrim Special Edition  
 > The Evil Within 2  
 > The Expanse A Telltale Series  
+> THE FINALS  
 > The Forest  
 > The Invincible  
 > The Last Of Us Part 1  
@@ -569,6 +578,7 @@ There are 588 games on this list.
 > Warhammer 40,000: Battlesector  
 > Warhammer 40,000: Chaos Gate - Daemonhunters  
 > Warhammer 40,000: Darktide  
+> Warhammer 40000 Rogue Trader  
 > Warhammer Age of Sigmar Realms of Ruin  
 > WAR THUNDER  
 > Watch Dogs: Legion  
