@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.2, released on 2024/03/06.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.3, released on 2024/04/16.
 
-There are 598 games on this list.
+There are 612 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -58,6 +58,7 @@ There are 598 games on this list.
 > Baldur's Gate 3  
 > Baldur's Gate: Enhanced Edition  
 > Baldur's Gate II: Enhanced Edition  
+> Banishers: Ghosts of New Eden  
 > Batman: Arkham City  
 > Batman: Arkham Knight  
 > Batman: Arkham Origins  
@@ -99,6 +100,7 @@ There are 598 games on this list.
 > Brawlhalla  
 > Breakwaters  
 > Brink  
+> Brothers: A Tale of Two Sons Remake  
 > Bulletstorm  
 > Burnout Paradise  
 > Call of Duty Advanced Warfare  
@@ -127,6 +129,7 @@ There are 598 games on this list.
 > Chorus  
 > Chrono Trigger  
 > Cities Skylines  
+> Classified: France '44  
 > Cold Zero  
 > Company of Heroes 2  
 > Company of Heroes 3  
@@ -284,15 +287,18 @@ There are 598 games on this list.
 > God of War  
 > Goose Goose Duck  
 > Gotham Knights  
+> Granblue Fantasy: Relink  
 > Grand Theft Auto V  
 > Greedfall  
 > Grim Dawn  
 > Grounded  
+> GROUND BRANCH  
 > Guild Wars 2  
 > GUILTY GEAR -STRIVE-  
 > GYLT  
 > Half-Life 2  
 > Halo Infinite  
+> Halo: The Master Chief Collection  
 > Hard West 2  
 > Hearthstone  
 > Hearts of Iron IV  
@@ -337,6 +343,7 @@ There are 598 games on this list.
 > King of Seas  
 > Knockout City  
 > KovaaK's  
+> Last Epoch  
 > LawBreakers  
 > Lawn Mowing Simulator  
 > League of Legends  
@@ -397,10 +404,12 @@ There are 598 games on this list.
 > NGU Idle  
 > Nickelodeon All-Star Brawl  
 > NieR Replicant ver.1.22474487139...  
+> Nightingale  
 > Nioh 2 - The Complete Edition  
 > No Man's Sky  
 > Nuts  
 > OCTOPATH TRAVELER II  
+> Old School RuneScape  
 > Once Human  
 > One Hand Clapping  
 > Only Up  
@@ -415,6 +424,7 @@ There are 598 games on this list.
 > PAYDAY 2  
 > PAYDAY 3  
 > PC Building Simulator 2  
+> Persona 3 Reload  
 > Persona 4 Arena Ultimax  
 > Persona 4 Golden  
 > Persona 5 Royal  
@@ -488,11 +498,13 @@ There are 598 games on this list.
 > Sid Meier's: Civilization VI  
 > Sifu  
 > SimRail The Railway Simulator  
+> Skull and Bones  
 > Slay the spire  
 > SMITE  
 > Sniper Elite 5  
 > SnowRunner  
 > Sonic Frontiers  
+> Sons Of The Forest  
 > Soulstice  
 > Soul Hackers 2  
 > South Park The Fractured But Whole  
@@ -550,6 +562,7 @@ There are 598 games on this list.
 > Thymesia  
 > Tiny Tina's Wonderland  
 > Titanfall 2  
+> Tomb Raider I-III Remastered Starring Lara Croft  
 > Tom Clancy's The Division  
 > Tom Clancy's The Division 2  
 > Tony Hawk's Pro Skater 1 + 2  
@@ -600,5 +613,6 @@ There are 598 games on this list.
 > Yakuza 6 The Song of Life  
 > Young Souls  
 > Your Only Move Is HUSTLE  
+> Youtubers Life  
 > Yu-Gi-Oh! Duel Links  
 > Zombies Ate My Neighbors and Ghoul Patrol  
