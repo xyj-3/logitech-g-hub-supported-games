@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.3, released on 2024/04/16.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.4, released on 2024/05/22.
 
-There are 612 games on this list.
+There are 623 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -23,12 +23,14 @@ There are 612 games on this list.
 > Aliens versus Predator Classic 2000  
 > Aliens vs. Predator  
 > Alien: Isolation  
+> Alone in the Dark  
 > American Truck Simulator  
 > Among Us  
 > Anomaly: Warzone Earth  
 > Anthem  
 > Apex Legends  
 > A.R.E.S.  
+> ARK: Survival Ascended  
 > ARK: Survival Evolved  
 > ARK: Survival of the Fittest  
 > Arma 3  
@@ -211,6 +213,7 @@ There are 612 games on this list.
 > DOOM Eternal  
 > Dota 2  
 > Dota Underlords  
+> Dragon's Dogma 2  
 > Dragon Age: Inquisition  
 > DRAGON BALL: THE BREAKERS  
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
@@ -314,6 +317,7 @@ There are 612 games on this list.
 > Hoa  
 > Hogwarts Legacy  
 > Hollow knight  
+> Horizon Forbidden West Complete Edition  
 > Horizon Zero Dawn Complete Edition  
 > HUMANKIND  
 > Human Fall Flat  
@@ -321,6 +325,7 @@ There are 612 games on this list.
 > Hyper Scape  
 > Immortals Fenyx Rising  
 > Immortals Of Aveum  
+> Infection Free Zone  
 > Innchanted  
 > Insurgency: Sandstorm  
 > It Takes Two  
@@ -468,6 +473,7 @@ There are 612 games on this list.
 > Rollerdrome  
 > Ruined King: A League of Legends Story  
 > Rumbleverse  
+> Rumble Club  
 > Rune Factory 4  
 > Rune II Decapitation Edition  
 > Rust  
@@ -507,12 +513,14 @@ There are 612 games on this list.
 > Sons Of The Forest  
 > Soulstice  
 > Soul Hackers 2  
+> SOUTH PARK: SNOW DAY!  
 > South Park The Fractured But Whole  
 > Spacebase Startopia  
 > Space Engineers  
 > Spellbreak  
 > Stardew Valley  
 > Starfield  
+> STAR WARS: Dark Forces Remaster  
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
 > STAR WARS Jedi Survivor  
@@ -527,6 +535,7 @@ There are 612 games on this list.
 > Super Magbot  
 > Super Monkey Ball Banana Mania  
 > System Shock  
+> Tales of Kenzera: ZAU  
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
 > TEKKEN 8  
@@ -551,6 +560,7 @@ There are 612 games on this list.
 > The Forest  
 > The Invincible  
 > The Last Of Us Part 1  
+> The Legend of Legacy HD Remastered  
 > Lord of the Rings Online  
 > The Outer Worlds  
 > The Outlast Trials  
@@ -573,6 +583,7 @@ There are 612 games on this list.
 > Total War: WARHAMMER II  
 > Train Life - A Railway Simulator  
 > Trepang2  
+> TRIBES 3: Rivals  
 > Tunic  
 > Twelve Minutes  
 > Two Point Campus  
