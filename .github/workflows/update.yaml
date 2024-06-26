@@ -1,0 +1,46 @@
+name: update-g-hub-list
+run-name: Check and update list
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+jobs:
+  update-g-hub-list:
+    runs-on: windows-latest
+    steps:
+    - name: Download installer
+      run: |
+        set INSTALLER_URL=https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
+        curl -L -o %TEMP%\installer.exe %INSTALLER_URL%
+      shell: cmd
+
+    - name: Install application
+      run: |
+        %TEMP%\installer.exe --silent
+      shell: cmd
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Run Python and update list if there was a software update
+      run: |
+        echo update=$(python update_list.py) >> $GITHUB_ENV
+      shell: bash
+
+    - name: Print env.update
+      run: |
+        echo ${{ env.update }}
+      shell: bash
+
+    - name: Create a PR if the list was updated
+      if: ${{ env.update != '' }}
+      uses: peter-evans/create-pull-request@v6
+      with:
+        branch: update
+        commit-message: Update for G HUB version ${{ env.update }}
+        title: Update for G HUB version ${{ env.update }}
