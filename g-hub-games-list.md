@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.4, released on 2024/05/22.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.5, released on 2024/06/25.
 
-There are 623 games on this list.
+There are 633 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -142,6 +142,7 @@ There are 623 games on this list.
 > Counter-Strike 2  
 > Counter-Strike: Condition Zero  
 > Counter-Strike: Condition Zero Deleted Scenes  
+> Counter-Strike: Global Offensive  
 > Counter-Strike: Source  
 > Crashday  
 > Crash Bandicoot 4 It's About Time  
@@ -232,7 +233,9 @@ There are 623 games on this list.
 > Escape From Tarkov  
 > Europa Universalis IV  
 > Euro Truck Simulator 2  
+> EVE Online  
 > Evil Genius 2 World Domination  
+> Evil Seal  
 > Evil West  
 > Eximius: Seize the Frontline  
 > Exoprimal  
@@ -274,6 +277,7 @@ There are 623 games on this list.
 > Fortnite  
 > Forza Motorsport  
 > For Honor  
+> FOUNDRY  
 > Frank and Drake  
 > Frostpunk  
 > Garrys Mod  
@@ -282,6 +286,7 @@ There are 623 games on this list.
 > Ghostrunner  
 > Ghosts 'N Goblins Resurrection  
 > Ghostwire: Tokyo  
+> Ghost of Tsushima DIRECTOR'S CUT  
 > Tom Clancy's Ghost Recon Wildlands  
 > Glitchpunk  
 > Goat Simulator  
@@ -317,6 +322,7 @@ There are 623 games on this list.
 > Hoa  
 > Hogwarts Legacy  
 > Hollow knight  
+> Homeworld 3  
 > Horizon Forbidden West Complete Edition  
 > Horizon Zero Dawn Complete Edition  
 > HUMANKIND  
@@ -412,6 +418,7 @@ There are 623 games on this list.
 > Nightingale  
 > Nioh 2 - The Complete Edition  
 > No Man's Sky  
+> No Rest for the Wicked  
 > Nuts  
 > OCTOPATH TRAVELER II  
 > Old School RuneScape  
@@ -436,6 +443,7 @@ There are 623 games on this list.
 > Persona 5 Strikers  
 > Persona 5 Tactica  
 > Phantasy Star Online 2 New Genesis  
+> Phantom Fury  
 > Photoshop CC  
 > PlayerUnknown's Battlegrounds  
 > Police Simulator: Patrol Officers  
@@ -474,6 +482,7 @@ There are 623 games on this list.
 > Ruined King: A League of Legends Story  
 > Rumbleverse  
 > Rumble Club  
+> RuneScape  
 > Rune Factory 4  
 > Rune II Decapitation Edition  
 > Rust  
@@ -562,6 +571,7 @@ There are 623 games on this list.
 > The Last Of Us Part 1  
 > The Legend of Legacy HD Remastered  
 > Lord of the Rings Online  
+> The Mims Beginning  
 > The Outer Worlds  
 > The Outlast Trials  
 > The Sims 4  
