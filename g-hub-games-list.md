@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.5, released on 2024/06/25.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.6, released on 2024/07/30.
 
-There are 633 games on this list.
+There are 645 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -122,6 +122,7 @@ There are 633 games on this list.
 > Capsized  
 > Carmageddon 2  
 > Century: Age of Ashes  
+> Chained Together  
 > I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator  
 > Chicory: A Colorful Tale  
 > Chinatown Detective Agency  
@@ -163,6 +164,7 @@ There are 633 games on this list.
 > Darksiders II  
 > Darksiders III  
 > Darkspore  
+> Dark and Darker  
 > DARK SOULS II  
 > Dark Souls III  
 > DARK SOULS II: Scholar of the First Sin  
@@ -228,9 +230,11 @@ There are 633 games on this list.
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
 > ELDEN RING  
+> ELDEN RING Shadow of the Erdtree  
 > ELEX II  
 > Elite Dangerous  
 > Escape From Tarkov  
+> Escape From Tarkov Arena  
 > Europa Universalis IV  
 > Euro Truck Simulator 2  
 > EVE Online  
@@ -244,6 +248,7 @@ There are 633 games on this list.
 > F1 2021  
 > F1 22  
 > F1 23  
+> F1 24  
 > F1 Manager 2022  
 > Factorio  
 > Fallen Knight  
@@ -297,6 +302,7 @@ There are 633 games on this list.
 > Gotham Knights  
 > Granblue Fantasy: Relink  
 > Grand Theft Auto V  
+> Gray Zone Warfare  
 > Greedfall  
 > Grim Dawn  
 > Grounded  
@@ -381,6 +387,7 @@ There are 633 games on this list.
 > Marvels Spider-Man Remastered  
 > Mass Effect Legendary Edition  
 > Mass Effect: Andromeda  
+> Mass Effect: Andromeda Deluxe Edition  
 > METAL GEAR SOLID V: THE PHANTOM PAIN  
 > Metal Gear Survive  
 > Metal: Hellsinger  
@@ -390,6 +397,7 @@ There are 633 games on this list.
 > Middle-earth:Shadow of War  
 > Minecraft  
 > Monster Hunter Rise  
+> Monster Hunter Stories  
 > Monster Hunter Stories 2: Wings of Ruin  
 > Monster Hunter: World  
 > Moonlighter  
@@ -498,6 +506,7 @@ There are 633 games on this list.
 > Sea of Thieves  
 > Sekiro: Shadows Die Twice  
 > Sengoku Dynasty  
+> Senua's Saga: Hellblade II  
 > Serial Cleaners  
 > Session: Skate Sim  
 > Shadow Complex Remastered  
@@ -506,6 +515,7 @@ There are 633 games on this list.
 > Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
 > Sherlock Holmes: Crimes & Punishments  
+> Shin Megami Tensei V: Vengeance  
 > Shop Titans  
 > Shovel Knight Pocket Dungeon  
 > Shredders  
@@ -560,6 +570,7 @@ There are 633 games on this list.
 > The Crew Motorfest  
 > The Darkness II  
 > The Dark Pictures Anthology: House of Ashes  
+> The Descendant  
 > The DioField Chronicle  
 > The Elder Scrolls Online  
 > The Elder Scrolls V: Skyrim Special Edition  
@@ -629,6 +640,7 @@ There are 633 games on this list.
 > World of Warcraft Classic  
 > Wo Long Fallen Dynasty  
 > WrestleQuest  
+> Wuthering Waves  
 > WWE 2K22  
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
