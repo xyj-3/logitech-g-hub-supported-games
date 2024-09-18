@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.6, released on 2024/07/30.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.7, released on 2024/09/10.
 
-There are 645 games on this list.
+There are 653 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -240,6 +240,7 @@ There are 645 games on this list.
 > EVE Online  
 > Evil Genius 2 World Domination  
 > Evil Seal  
+> Evil V Evil  
 > Evil West  
 > Eximius: Seize the Frontline  
 > Exoprimal  
@@ -250,6 +251,7 @@ There are 645 games on this list.
 > F1 23  
 > F1 24  
 > F1 Manager 2022  
+> F1 Manager 2024  
 > Factorio  
 > Fallen Knight  
 > Fallout 4  
@@ -274,6 +276,7 @@ There are 645 games on this list.
 > First Class Trouble  
 > FIST Forged In Shadow Torch  
 > Flight Simulator X  
+> Flintlock: The Siege of Dawn  
 > Floodland  
 > Football Manager 2020  
 > Football Manager 2021  
@@ -360,6 +363,7 @@ There are 645 games on this list.
 > King of Seas  
 > Knockout City  
 > KovaaK's  
+> Kunitsu-Gami: Path of the Goddess  
 > Last Epoch  
 > LawBreakers  
 > Lawn Mowing Simulator  
@@ -527,6 +531,7 @@ There are 645 games on this list.
 > Slay the spire  
 > SMITE  
 > Sniper Elite 5  
+> SNK VS. CAPCOM SVC CHAOS  
 > SnowRunner  
 > Sonic Frontiers  
 > Sons Of The Forest  
@@ -545,6 +550,7 @@ There are 645 games on this list.
 > STAR WARS Jedi Survivor  
 > Steelrising  
 > Stellaris Galactic Paragons  
+> Stormgate  
 > Stranded: Alien Dawn  
 > Stranger of Paradise: Final Fantasy Origin  
 > Stray  
@@ -577,6 +583,7 @@ There are 645 games on this list.
 > The Evil Within 2  
 > The Expanse A Telltale Series  
 > THE FINALS  
+> The First Descendant  
 > The Forest  
 > The Invincible  
 > The Last Of Us Part 1  
@@ -648,4 +655,5 @@ There are 645 games on this list.
 > Your Only Move Is HUSTLE  
 > Youtubers Life  
 > Yu-Gi-Oh! Duel Links  
+> Zenless Zone Zero  
 > Zombies Ate My Neighbors and Ghoul Patrol  
