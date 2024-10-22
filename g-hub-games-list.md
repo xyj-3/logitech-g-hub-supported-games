@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.7, released on 2024/09/10.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.8, released on 2024/10/21.
 
-There are 653 games on this list.
+There are 668 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -86,6 +86,7 @@ There are 653 games on this list.
 > BioShock Infinite  
 > BLACKTAIL  
 > Black Desert Online Remastered  
+> Black Myth: Wukong  
 > Blair Witch  
 > Bless Unleashed  
 > Bloody Good Time  
@@ -222,11 +223,13 @@ There are 653 games on this list.
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
 > Dragon Quest XI: Echoes of an Elusive Age  
 > Dune: Spice Wars  
+> Dustborn  
 > Dying Light  
 > Dying Light 2 Stay Human  
 > Dying Light 2 Stay Human  
 > EA SPORTS FC 24  
 > EA SPORTS FIFA 23  
+> EA SPORTS Madden NFL 25  
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
 > ELDEN RING  
@@ -288,6 +291,7 @@ There are 653 games on this list.
 > FOUNDRY  
 > Frank and Drake  
 > Frostpunk  
+> Frostpunk 2  
 > Garrys Mod  
 > Gears 5  
 > Genshin Impact  
@@ -317,6 +321,7 @@ There are 653 games on this list.
 > Halo Infinite  
 > Halo: The Master Chief Collection  
 > Hard West 2  
+> Harry Potter: Quidditch Champions  
 > Hearthstone  
 > Hearts of Iron IV  
 > Heavenly Bodies  
@@ -343,6 +348,7 @@ There are 653 games on this list.
 > Infection Free Zone  
 > Innchanted  
 > Insurgency: Sandstorm  
+> iRacing  
 > It Takes Two  
 > IXION  
 > Star Wars Jedi: Fallen Order  
@@ -419,6 +425,7 @@ There are 653 games on this list.
 > NBA 2K22  
 > NBA 2K23  
 > NBA 2K24  
+> NBA 2K25  
 > Need for Speed Heat  
 > Need for Speed Undercover  
 > Neptunia:Sisters VS Sisters  
@@ -530,6 +537,7 @@ There are 653 games on this list.
 > Skull and Bones  
 > Slay the spire  
 > SMITE  
+> SMITE 2  
 > Sniper Elite 5  
 > SNK VS. CAPCOM SVC CHAOS  
 > SnowRunner  
@@ -541,6 +549,7 @@ There are 653 games on this list.
 > South Park The Fractured But Whole  
 > Spacebase Startopia  
 > Space Engineers  
+> Spectre Divide  
 > Spellbreak  
 > Stardew Valley  
 > Starfield  
@@ -548,6 +557,7 @@ There are 653 games on this list.
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
 > STAR WARS Jedi Survivor  
+> Star Wars Outlaws  
 > Steelrising  
 > Stellaris Galactic Paragons  
 > Stormgate  
@@ -566,11 +576,13 @@ There are 653 games on this list.
 > TEKKEN 8  
 > Terraria  
 > Terra Nil  
+> Test Drive Unlimited Solar Crown  
 > The Hunter Call of the Wild  
 > The Ascent  
 > The Banner Saga 3  
 > The Binding of Isaac: Rebirth  
 > The Callisto Protocol  
+> The Casting of Frank Stone  
 > The Chant  
 > The Club  
 > The Crew Motorfest  
@@ -623,6 +635,7 @@ There are 653 games on this list.
 > Vampire Survivors  
 > Vampire: The Masquerade - Bloodhunt  
 > Vaporum: Lockdown  
+> Visions of Mana  
 > Voidtrain  
 > V Rising  
 > Wallpaper Engine  
@@ -631,6 +644,8 @@ There are 653 games on this list.
 > Warhammer 40,000: Chaos Gate - Daemonhunters  
 > Warhammer 40,000: Darktide  
 > Warhammer 40000 Rogue Trader  
+> Warhammer 40,000: Space Marine 2  
+> Warhammer 40,000: Speed Freeks  
 > Warhammer Age of Sigmar Realms of Ruin  
 > WAR THUNDER  
 > Watch Dogs: Legion  
