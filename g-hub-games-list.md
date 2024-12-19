@@ -1,6 +1,6 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.8, released on 2024/10/21.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.9, released on 2024/12/03.
 
 There are 668 games on this list.
 
