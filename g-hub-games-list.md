@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2024.9, released on 2024/12/03.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.1, released on 2025/01/21.
 
-There are 668 games on this list.
+There are 679 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -109,6 +109,7 @@ There are 668 games on this list.
 > Call of Duty Advanced Warfare  
 > Call of Duty: Black Ops  
 > Call of Duty: Black Ops 4  
+> Call of Duty: Black Ops 6  
 > Call of Duty: Black Ops Cold War  
 > Call of Duty: Black Ops II (single player)  
 > Call of Duty: Black Ops III  
@@ -219,6 +220,8 @@ There are 668 games on this list.
 > Dota Underlords  
 > Dragon's Dogma 2  
 > Dragon Age: Inquisition  
+> Dragon Age: The Veilguard  
+> DRAGON BALL: Sparking! ZERO  
 > DRAGON BALL: THE BREAKERS  
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
 > Dragon Quest XI: Echoes of an Elusive Age  
@@ -276,6 +279,7 @@ There are 668 games on this list.
 > FINAL FANTASY IX  
 > FINAL FANTASY VII REMAKE INTERGRADE  
 > Final Fantasy XIV  
+> FINAL FANTASY XVI  
 > First Class Trouble  
 > FIST Forged In Shadow Torch  
 > Flight Simulator X  
@@ -305,12 +309,14 @@ There are 668 games on this list.
 > Goat Simulator 3  
 > Godfall  
 > God of War  
+> God of War Ragnarok  
 > Goose Goose Duck  
 > Gotham Knights  
 > Granblue Fantasy: Relink  
 > Grand Theft Auto V  
 > Gray Zone Warfare  
 > Greedfall  
+> GreedFall II: The Dying World  
 > Grim Dawn  
 > Grounded  
 > GROUND BRANCH  
@@ -398,6 +404,7 @@ There are 668 games on this list.
 > Mass Effect Legendary Edition  
 > Mass Effect: Andromeda  
 > Mass Effect: Andromeda Deluxe Edition  
+> MechWarrior 5: Clans  
 > METAL GEAR SOLID V: THE PHANTOM PAIN  
 > Metal Gear Survive  
 > Metal: Hellsinger  
@@ -440,6 +447,7 @@ There are 668 games on this list.
 > No Rest for the Wicked  
 > Nuts  
 > OCTOPATH TRAVELER II  
+> Off The Grid  
 > Old School RuneScape  
 > Once Human  
 > One Hand Clapping  
@@ -533,6 +541,7 @@ There are 668 games on this list.
 > Sid Meier's Civilization V  
 > Sid Meier's: Civilization VI  
 > Sifu  
+> SILENT HILL 2  
 > SimRail The Railway Simulator  
 > Skull and Bones  
 > Slay the spire  
@@ -628,6 +637,7 @@ There are 668 games on this list.
 > Twelve Minutes  
 > Two Point Campus  
 > Undecember  
+> Until Dawn  
 > Untitled Goose Game  
 > Unturned  
 > Valheim  
@@ -672,3 +682,4 @@ There are 668 games on this list.
 > Yu-Gi-Oh! Duel Links  
 > Zenless Zone Zero  
 > Zombies Ate My Neighbors and Ghoul Patrol  
+> Zoochosis  
