@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.1, released on 2025/01/21.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.2, released on 2025/02/18.
 
-There are 679 games on this list.
+There are 689 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -47,6 +47,7 @@ There are 679 games on this list.
 > Assassins Creed Valhalla  
 > Assetto Corsa  
 > Assetto Corsa Competizione  
+> Assetto Corsa EVO  
 > ASTRONEER  
 > Atomic Heart  
 > Audiosurf  
@@ -266,6 +267,7 @@ There are 679 games on this list.
 > Fall Guys: Ultimate Knockout  
 > Far Cry V  
 > Farming Simulator 19  
+> Farming Simulator 25  
 > Farming Sim 15  
 > Far Cry 6  
 > Far Cry Primal  
@@ -277,6 +279,7 @@ There are 679 games on this list.
 > FIFA 22  
 > Fighter Ace 2  
 > FINAL FANTASY IX  
+> FINAL FANTASY VII REBIRTH  
 > FINAL FANTASY VII REMAKE INTERGRADE  
 > Final Fantasy XIV  
 > FINAL FANTASY XVI  
@@ -307,6 +310,7 @@ There are 679 games on this list.
 > Glitchpunk  
 > Goat Simulator  
 > Goat Simulator 3  
+> Goat Simulator: Remastered  
 > Godfall  
 > God of War  
 > God of War Ragnarok  
@@ -351,6 +355,7 @@ There are 679 games on this list.
 > Hyper Scape  
 > Immortals Fenyx Rising  
 > Immortals Of Aveum  
+> Indiana Jones and the Great Circle  
 > Infection Free Zone  
 > Innchanted  
 > Insurgency: Sandstorm  
@@ -382,6 +387,7 @@ There are 679 games on this list.
 > League of Legends  
 > Left 4 Dead 2  
 > Legend of Mana  
+> LEGO Horizon Adventures  
 > LEGO Star Wars: The Skywalker Saga  
 > Lethal Company  
 > Life is Strange: True Colors  
@@ -401,6 +407,7 @@ There are 679 games on this list.
 > Marvels Midnight Suns  
 > Marvels Spider-Man Miles Morales  
 > Marvels Spider-Man Remastered  
+> Marvel Rivals  
 > Mass Effect Legendary Edition  
 > Mass Effect: Andromeda  
 > Mass Effect: Andromeda Deluxe Edition  
@@ -410,6 +417,7 @@ There are 679 games on this list.
 > Metal: Hellsinger  
 > Metro Exodus  
 > Microsoft Flight Simulator  
+> Microsoft Flight Simulator 2024  
 > Middle-earth: Shadow of Mordor  
 > Middle-earth:Shadow of War  
 > Minecraft  
@@ -460,6 +468,7 @@ There are 679 games on this list.
 > Paladins  
 > Palworld  
 > Path of Exile  
+> Path of Exile 2  
 > PAYDAY 2  
 > PAYDAY 3  
 > PC Building Simulator 2  
@@ -495,6 +504,7 @@ There are 679 games on this list.
 > Resident Evil 3  
 > Resident Evil 4  
 > RESONANCE OF FATE/END OF ETERNITY 4K/HD EDITION  
+> Reverse 1999  
 > rFactor  
 > Riders Republic  
 > Rim World  
