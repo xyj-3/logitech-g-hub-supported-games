@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.2, released on 2025/02/18.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.3, released on 2025/03/24.
 
-There are 689 games on this list.
+There are 702 games on this list.
 
 > 007 Legends  
 > 3D Ultra Minigolf Adventures  
@@ -34,6 +34,7 @@ There are 689 games on this list.
 > ARK: Survival Evolved  
 > ARK: Survival of the Fittest  
 > Arma 3  
+> Arma Reforger  
 > ARMORED CORE VI FIRES OF RUBICON  
 > Assassin's Creed  
 > Assassin's Creed Brotherhood  
@@ -53,6 +54,7 @@ There are 689 games on this list.
 > Audiosurf  
 > Automobilista 2  
 > Avatar Frontiers of Pandora  
+> Avowed  
 > A Plague Tale: Requiem  
 > A Plague Tale: Innocence  
 > A Way Out  
@@ -195,6 +197,7 @@ There are 689 games on this list.
 > Deceive Inc  
 > Deep Rock Galactic  
 > Deliver Us Mars  
+> Delta Force  
 > Demon Dark I  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
 > APPLICATION_NAME_DESKTOP  
@@ -231,6 +234,7 @@ There are 689 games on this list.
 > Dying Light  
 > Dying Light 2 Stay Human  
 > Dying Light 2 Stay Human  
+> DYNASTY WARRIORS: ORIGINS  
 > EA SPORTS FC 24  
 > EA SPORTS FIFA 23  
 > EA SPORTS Madden NFL 25  
@@ -293,6 +297,7 @@ There are 689 games on this list.
 > Football Manager 2022  
 > Football Manager 2023  
 > Fortnite  
+> Forza Horizon 5  
 > Forza Motorsport  
 > For Honor  
 > FOUNDRY  
@@ -374,6 +379,7 @@ There are 689 games on this list.
 > Kingdom Hearts HD 1.5 + 2.5 ReMix  
 > Kingdom Hearts Melody of Memory  
 > Kingdom Come: Deliverance  
+> Kingdom Come: Deliverance II  
 > Kingdom Hearts 3 + Re Mind  
 > King's Bounty 2  
 > King Arthur: Knight's Tale  
@@ -405,6 +411,7 @@ There are 689 games on this list.
 > Marvel's Avengers  
 > Marvels Guardians of the Galaxy  
 > Marvels Midnight Suns  
+> Marvels Spider-Man 2  
 > Marvels Spider-Man Miles Morales  
 > Marvels Spider-Man Remastered  
 > Marvel Rivals  
@@ -450,6 +457,7 @@ There are 689 games on this list.
 > Nickelodeon All-Star Brawl  
 > NieR Replicant ver.1.22474487139...  
 > Nightingale  
+> NINJA GAIDEN 2 Black  
 > Nioh 2 - The Complete Edition  
 > No Man's Sky  
 > No Rest for the Wicked  
@@ -550,6 +558,7 @@ There are 689 games on this list.
 > Shredders  
 > Sid Meier's Civilization V  
 > Sid Meier's: Civilization VI  
+> Sid Meier's Civilization VII  
 > Sifu  
 > SILENT HILL 2  
 > SimRail The Railway Simulator  
@@ -558,6 +567,7 @@ There are 689 games on this list.
 > SMITE  
 > SMITE 2  
 > Sniper Elite 5  
+> Sniper Elite: Resistance  
 > SNK VS. CAPCOM SVC CHAOS  
 > SnowRunner  
 > Sonic Frontiers  
@@ -575,6 +585,7 @@ There are 689 games on this list.
 > STAR WARS: Dark Forces Remaster  
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
+> STAR WARS: Episode I: Jedi Power Battles  
 > STAR WARS Jedi Survivor  
 > Star Wars Outlaws  
 > Steelrising  
@@ -631,6 +642,7 @@ There are 689 games on this list.
 > Thymesia  
 > Tiny Tina's Wonderland  
 > Titanfall 2  
+> Tomb Raider IV-VI Remastered  
 > Tomb Raider I-III Remastered Starring Lara Croft  
 > Tom Clancy's The Division  
 > Tom Clancy's The Division 2  
@@ -655,6 +667,7 @@ There are 689 games on this list.
 > Vampire Survivors  
 > Vampire: The Masquerade - Bloodhunt  
 > Vaporum: Lockdown  
+> Virtua Fighter 5 R.E.V.O.  
 > Visions of Mana  
 > Voidtrain  
 > V Rising  
