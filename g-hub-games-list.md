@@ -1,10 +1,11 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.3, released on 2025/03/24.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.4, released on 2025/05/05.
 
-There are 702 games on this list.
+There are 713 games on this list.
 
 > 007 Legends  
+> 33 Immortals  
 > 3D Ultra Minigolf Adventures  
 > 7 Days to Die  
 > Age of Empires 2 Definitive Edition  
@@ -44,6 +45,7 @@ There are 702 games on this list.
 > Assassins Creed Mirage  
 > Assassin's Creed Odyssey  
 > Assassin's Creed Origins  
+> Assassin's Creed Shadows  
 > Assassin's Creed Unity  
 > Assassins Creed Valhalla  
 > Assetto Corsa  
@@ -126,6 +128,7 @@ There are 702 games on this list.
 > Capcom Arcade Stadium  
 > Capsized  
 > Carmageddon 2  
+> Carmen Sandiego  
 > Century: Age of Ashes  
 > Chained Together  
 > I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator  
@@ -301,6 +304,7 @@ There are 702 games on this list.
 > Forza Motorsport  
 > For Honor  
 > FOUNDRY  
+> FragPunk  
 > Frank and Drake  
 > Frostpunk  
 > Frostpunk 2  
@@ -399,6 +403,7 @@ There are 702 games on this list.
 > Life is Strange: True Colors  
 > Like a Dragon Gaiden The Man Who Erased His Name  
 > Like a Dragon: Infinite Wealth  
+> Like a Dragon: Pirate Yakuza in Hawaii  
 > Little Nightmares II  
 > Little Witch in the Woods  
 > Lost Ark  
@@ -431,6 +436,7 @@ There are 702 games on this list.
 > Monster Hunter Rise  
 > Monster Hunter Stories  
 > Monster Hunter Stories 2: Wings of Ruin  
+> Monster Hunter Wilds  
 > Monster Hunter: World  
 > Moonlighter  
 > Mordhau  
@@ -516,6 +522,7 @@ There are 702 games on this list.
 > rFactor  
 > Riders Republic  
 > Rim World  
+> Rise of the Ronin  
 > Rise of the Tomb Raider  
 > Road 96  
 > RoboCop Rogue City  
@@ -532,6 +539,7 @@ There are 702 games on this list.
 > Rune II Decapitation Edition  
 > Rust  
 > Rustler  
+> R.E.P.O.  
 > Saints Row  
 > Saints Row IV: Re-Elected  
 > Sakuna Of Rice and Ruin  
@@ -580,6 +588,7 @@ There are 702 games on this list.
 > Space Engineers  
 > Spectre Divide  
 > Spellbreak  
+> Split Fiction  
 > Stardew Valley  
 > Starfield  
 > STAR WARS: Dark Forces Remaster  
@@ -597,6 +606,7 @@ There are 702 games on this list.
 > Street Fighter 6  
 > Stronghold Warlords  
 > Suicide Squad: Kill the Justice League  
+> Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars  
 > Super Magbot  
 > Super Monkey Ball Banana Mania  
 > System Shock  
@@ -697,6 +707,7 @@ There are 702 games on this list.
 > WrestleQuest  
 > Wuthering Waves  
 > WWE 2K22  
+> WWE 2K25  
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
 > Young Souls  
