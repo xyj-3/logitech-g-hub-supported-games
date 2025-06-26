@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.4, released on 2025/05/05.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.5, released on 2025/06/16.
 
-There are 713 games on this list.
+There are 725 games on this list.
 
 > 007 Legends  
 > 33 Immortals  
@@ -52,10 +52,12 @@ There are 713 games on this list.
 > Assetto Corsa Competizione  
 > Assetto Corsa EVO  
 > ASTRONEER  
+> Atomfall  
 > Atomic Heart  
 > Audiosurf  
 > Automobilista 2  
 > Avatar Frontiers of Pandora  
+> Aviassembly  
 > Avowed  
 > A Plague Tale: Requiem  
 > A Plague Tale: Innocence  
@@ -129,6 +131,7 @@ There are 713 games on this list.
 > Capsized  
 > Carmageddon 2  
 > Carmen Sandiego  
+> CarX Drift Racing Online  
 > Century: Age of Ashes  
 > Chained Together  
 > I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator  
@@ -140,6 +143,7 @@ There are 713 games on this list.
 > Chorus  
 > Chrono Trigger  
 > Cities Skylines  
+> Clair Obscur: Expedition 33  
 > Classified: France '44  
 > Cold Zero  
 > Company of Heroes 2  
@@ -223,6 +227,7 @@ There are 713 games on this list.
 > Don't Starve Together  
 > DOOM  
 > DOOM Eternal  
+> DOOM: The Dark Ages  
 > Dota 2  
 > Dota Underlords  
 > Dragon's Dogma 2  
@@ -279,6 +284,7 @@ There are 713 games on this list.
 > Far Cry 6  
 > Far Cry Primal  
 > FATAL FRAME / PROJECT ZERO: Maiden of Black Water  
+> FATAL FURY: City of the Wolves  
 > Fate of the Dragon  
 > FEAR2  
 > F.E.A.R. 3  
@@ -361,6 +367,7 @@ There are 713 games on this list.
 > HUMANKIND  
 > Human Fall Flat  
 > Hunt:Showdown  
+> HYPERCHARGE: Unboxed  
 > Hyper Scape  
 > Immortals Fenyx Rising  
 > Immortals Of Aveum  
@@ -471,6 +478,7 @@ There are 713 games on this list.
 > OCTOPATH TRAVELER II  
 > Off The Grid  
 > Old School RuneScape  
+> Old Skies  
 > Once Human  
 > One Hand Clapping  
 > Only Up  
@@ -582,6 +590,7 @@ There are 713 games on this list.
 > Sons Of The Forest  
 > Soulstice  
 > Soul Hackers 2  
+> South of Midnight  
 > SOUTH PARK: SNOW DAY!  
 > South Park The Fractured But Whole  
 > Spacebase Startopia  
@@ -630,15 +639,18 @@ There are 713 games on this list.
 > The Dark Pictures Anthology: House of Ashes  
 > The Descendant  
 > The DioField Chronicle  
+> The Elder Scrolls IV: Oblivion Remastered  
 > The Elder Scrolls Online  
 > The Elder Scrolls V: Skyrim Special Edition  
 > The Evil Within 2  
 > The Expanse A Telltale Series  
 > THE FINALS  
+> The First Berserker: Khazan  
 > The First Descendant  
 > The Forest  
 > The Invincible  
 > The Last Of Us Part 1  
+> The Last of Us Part II Remastered  
 > The Legend of Legacy HD Remastered  
 > Lord of the Rings Online  
 > The Mims Beginning  
