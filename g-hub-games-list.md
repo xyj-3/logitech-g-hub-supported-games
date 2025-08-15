@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.5, released on 2025/06/16.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.6, released on 2025/07/30.
 
-There are 725 games on this list.
+There are 739 games on this list.
 
 > 007 Legends  
 > 33 Immortals  
@@ -94,6 +94,7 @@ There are 725 games on this list.
 > BLACKTAIL  
 > Black Desert Online Remastered  
 > Black Myth: Wukong  
+> Blades of Fire  
 > Blair Witch  
 > Bless Unleashed  
 > Bloody Good Time  
@@ -188,6 +189,7 @@ There are 725 games on this list.
 > DCS World Steam Edition  
 > Deadlight  
 > Deadnaut Signal Lost  
+> Deadzone Rogue  
 > Dead by Daylight  
 > Dead Island  
 > Dead Island 2  
@@ -237,6 +239,7 @@ There are 725 games on this list.
 > DRAGON BALL: THE BREAKERS  
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
 > Dragon Quest XI: Echoes of an Elusive Age  
+> Dune: Awakening  
 > Dune: Spice Wars  
 > Dustborn  
 > Dying Light  
@@ -249,6 +252,7 @@ There are 725 games on this list.
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
 > ELDEN RING  
+> ELDEN RING NIGHTREIGN  
 > ELDEN RING Shadow of the Erdtree  
 > ELEX II  
 > Elite Dangerous  
@@ -269,6 +273,7 @@ There are 725 games on this list.
 > F1 22  
 > F1 23  
 > F1 24  
+> F1 25  
 > F1 Manager 2022  
 > F1 Manager 2024  
 > Factorio  
@@ -298,6 +303,7 @@ There are 725 games on this list.
 > FINAL FANTASY XVI  
 > First Class Trouble  
 > FIST Forged In Shadow Torch  
+> Five Nights at Freddy's: Secret of the Mimic  
 > Flight Simulator X  
 > Flintlock: The Siege of Dawn  
 > Floodland  
@@ -378,6 +384,7 @@ There are 725 games on this list.
 > iRacing  
 > It Takes Two  
 > IXION  
+> JDM: Japanese Drift Master  
 > Star Wars Jedi: Fallen Order  
 > JETT: The Far Shore  
 > JoJos Bizarre Adventure: All-Star Battle  
@@ -413,6 +420,7 @@ There are 725 games on this list.
 > Like a Dragon: Pirate Yakuza in Hawaii  
 > Little Nightmares II  
 > Little Witch in the Woods  
+> Loco Motive  
 > Lost Ark  
 > Lumberhill  
 > Madden NFL 21  
@@ -481,6 +489,7 @@ There are 725 games on this list.
 > Old Skies  
 > Once Human  
 > One Hand Clapping  
+> Onimusha 2: Samurai's Destiny  
 > Only Up  
 > Orcs Must Die 3  
 > Outriders  
@@ -586,6 +595,7 @@ There are 725 games on this list.
 > Sniper Elite: Resistance  
 > SNK VS. CAPCOM SVC CHAOS  
 > SnowRunner  
+> Sol Cesto  
 > Sonic Frontiers  
 > Sons Of The Forest  
 > Soulstice  
@@ -597,6 +607,8 @@ There are 725 games on this list.
 > Space Engineers  
 > Spectre Divide  
 > Spellbreak  
+> Spiritfarer: Farewell Edition  
+> Splitgate 2  
 > Split Fiction  
 > Stardew Valley  
 > Starfield  
@@ -608,6 +620,7 @@ There are 725 games on this list.
 > Star Wars Outlaws  
 > Steelrising  
 > Stellaris Galactic Paragons  
+> Stellar Blade  
 > Stormgate  
 > Stranded: Alien Dawn  
 > Stranger of Paradise: Final Fantasy Origin  
@@ -622,6 +635,7 @@ There are 725 games on this list.
 > Tales of Kenzera: ZAU  
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
+> Teenage Mutant Ninja Turtles: Tactical Takedown  
 > TEKKEN 8  
 > Terraria  
 > Terra Nil  
