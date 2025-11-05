@@ -19,6 +19,32 @@ jobs:
         %TEMP%\installer.exe --silent
       shell: cmd
 
+    - name: Verify installation
+      run: |
+        echo "Waiting for G HUB installation to complete..."
+        $maxAttempts = 60
+        $attempt = 0
+        $installComplete = $false
+
+        while ($attempt -lt $maxAttempts) {
+          Start-Sleep -Seconds 5
+          $attempt++
+
+          if ((Test-Path "C:\ProgramData\LGHUB\current.json") -and (Test-Path "C:\Program Files\LGHUB\data\applications.json")) {
+            Write-Host "G HUB installation verified successfully (attempt $attempt)"
+            $installComplete = $true
+            break
+          }
+
+          Write-Host "Waiting for installation... (attempt $attempt/$maxAttempts)"
+        }
+
+        if (-not $installComplete) {
+          Write-Error "G HUB installation failed or timed out after $($maxAttempts * 5) seconds"
+          exit 1
+        }
+      shell: pwsh
+
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
