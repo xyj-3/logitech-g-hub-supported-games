@@ -14,6 +14,51 @@ jobs:
         curl -L -o %TEMP%\installer.exe %INSTALLER_URL%
       shell: cmd
 
+    - name: Verify installer security
+      run: |
+        $installerPath = "$env:TEMP\installer.exe"
+
+        # Check file exists and has reasonable size (at least 1MB, at most 500MB)
+        if (-not (Test-Path $installerPath)) {
+          Write-Error "Installer file not found"
+          exit 1
+        }
+
+        $fileSize = (Get-Item $installerPath).Length
+        $fileSizeMB = [math]::Round($fileSize / 1MB, 2)
+        Write-Host "Installer size: $fileSizeMB MB"
+
+        if ($fileSize -lt 1MB) {
+          Write-Error "Installer file is too small ($fileSizeMB MB) - possibly corrupted"
+          exit 1
+        }
+
+        if ($fileSize -gt 500MB) {
+          Write-Error "Installer file is suspiciously large ($fileSizeMB MB)"
+          exit 1
+        }
+
+        # Verify digital signature
+        Write-Host "Verifying digital signature..."
+        $signature = Get-AuthenticodeSignature -FilePath $installerPath
+
+        if ($signature.Status -ne "Valid") {
+          Write-Error "Digital signature verification failed. Status: $($signature.Status)"
+          exit 1
+        }
+
+        # Verify signer
+        $signer = $signature.SignerCertificate.Subject
+        Write-Host "Signed by: $signer"
+
+        if ($signer -notmatch "Logitech") {
+          Write-Error "Installer is not signed by Logitech. Signer: $signer"
+          exit 1
+        }
+
+        Write-Host "Security verification passed"
+      shell: pwsh
+
     - name: Install application
       run: |
         %TEMP%\installer.exe --silent
