@@ -9,13 +9,23 @@ jobs:
     runs-on: windows-latest
     steps:
     - name: Download installer
+      timeout-minutes: 10
       run: |
         set INSTALLER_URL=https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
         curl -L -o %TEMP%\installer.exe %INSTALLER_URL%
+        if not exist %TEMP%\installer.exe (
+          echo Error: Failed to download installer
+          exit /b 1
+        )
       shell: cmd
 
     - name: Install application
+      timeout-minutes: 15
       run: |
+        if not exist %TEMP%\installer.exe (
+          echo Error: Installer file not found
+          exit /b 1
+        )
         %TEMP%\installer.exe --silent
       shell: cmd
 
@@ -29,7 +39,14 @@ jobs:
 
     - name: Run Python and update list if there was a software update
       run: |
-        echo update=$(python update_list.py) >> $GITHUB_ENV
+        set -e
+        if ! python update_list.py > /tmp/version_output.txt 2>&1; then
+          echo "Error: Python script failed"
+          cat /tmp/version_output.txt
+          exit 1
+        fi
+        version=$(cat /tmp/version_output.txt)
+        echo "update=${version}" >> $GITHUB_ENV
       shell: bash
 
     - name: Print env.update
