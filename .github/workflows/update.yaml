@@ -8,6 +8,9 @@ jobs:
   update-g-hub-list:
     runs-on: windows-latest
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
     - name: Download installer
       run: |
         set INSTALLER_URL=https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
@@ -23,9 +26,6 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
-
-    - name: Checkout repository
-      uses: actions/checkout@v4
 
     - name: Run Python and update list if there was a software update
       run: |
