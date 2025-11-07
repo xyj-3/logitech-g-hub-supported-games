@@ -33,7 +33,11 @@ def main():
             with open(release_date_file_path) as f:
                 release_date_file = f.read()
             release_date_pre = re.search(r"Released on ([A-Za-z]+ \d{1,2}, \d{4})\.", release_date_file).group(1)
-            date_obj = datetime.strptime(release_date_pre, "%B %d, %Y")
+            # Try both full month name (%B) and abbreviated month name (%b)
+            try:
+                date_obj = datetime.strptime(release_date_pre, "%B %d, %Y")
+            except ValueError:
+                date_obj = datetime.strptime(release_date_pre, "%b %d, %Y")
             release_date = date_obj.strftime("%Y/%m/%d")
         except FileNotFoundError:
             raise Exception("release_notes.html not found")
