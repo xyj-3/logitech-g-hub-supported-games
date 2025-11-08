@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.6, released on 2025/07/30.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.8, released on 2025/10/13.
 
-There are 739 games on this list.
+There are 751 games on this list.
 
 > 007 Legends  
 > 33 Immortals  
@@ -111,6 +111,7 @@ There are 739 games on this list.
 > Brawlhalla  
 > Breakwaters  
 > Brink  
+> Broken Arrow  
 > Brothers: A Tale of Two Sons Remake  
 > Bulletstorm  
 > Burnout Paradise  
@@ -206,9 +207,11 @@ There are 739 games on this list.
 > Deceive Inc  
 > Deep Rock Galactic  
 > Deliver Us Mars  
+> DELTARUNE  
 > Delta Force  
 > Demon Dark I  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
+> Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2  
 > APPLICATION_NAME_DESKTOP  
 > Destiny 2  
 > Destroy All Humans! 2 - Reprobed  
@@ -241,6 +244,7 @@ There are 739 games on this list.
 > Dragon Quest XI: Echoes of an Elusive Age  
 > Dune: Awakening  
 > Dune: Spice Wars  
+> Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition  
 > Dustborn  
 > Dying Light  
 > Dying Light 2 Stay Human  
@@ -372,6 +376,7 @@ There are 739 games on this list.
 > Horizon Zero Dawn Complete Edition  
 > HUMANKIND  
 > Human Fall Flat  
+> HUNTER HUNTER NEN IMPACT  
 > Hunt:Showdown  
 > HYPERCHARGE: Unboxed  
 > Hyper Scape  
@@ -396,6 +401,7 @@ There are 739 games on this list.
 > Kingdom Hearts HD 2.8 Final Chapter Prologue  
 > Kingdom Hearts HD 1.5 + 2.5 ReMix  
 > Kingdom Hearts Melody of Memory  
+> Killing Floor 3  
 > Kingdom Come: Deliverance  
 > Kingdom Come: Deliverance II  
 > Kingdom Hearts 3 + Re Mind  
@@ -427,6 +433,7 @@ There are 739 games on this list.
 > Madden NFL 22  
 > Madden NFL 23  
 > Madden NFL 24  
+> Mafia: The Old Country  
 > Magic The Gathering Arena  
 > Marvel's Avengers  
 > Marvels Guardians of the Galaxy  
@@ -503,6 +510,7 @@ There are 739 games on this list.
 > PAYDAY 2  
 > PAYDAY 3  
 > PC Building Simulator 2  
+> PEAK  
 > Persona 3 Reload  
 > Persona 4 Arena Ultimax  
 > Persona 4 Golden  
@@ -529,6 +537,7 @@ There are 739 games on this list.
 > Rainbow Six Vegas  
 > Ready or Not  
 > Red Dead Redemption 2  
+> REMATCH  
 > Remnant II  
 > Resident Evil Village  
 > Resident Evil 2  
@@ -683,6 +692,7 @@ There are 739 games on this list.
 > Tom Clancy's The Division  
 > Tom Clancy's The Division 2  
 > Tony Hawk's Pro Skater 1 + 2  
+> Tony Hawk's Pro Skater 3 + 4  
 > Totally Accurate Battlegrounds  
 > Total War PHARAOH  
 > Total War: ROME II - Emperor Edition  
@@ -722,6 +732,7 @@ There are 739 games on this list.
 > Way of the Hunter  
 > Werewolf: The Apocalypse Earthblood  
 > We Were Here  
+> Wildgate  
 > Winter Ember  
 > Wolfenstein II: The New Colossus  
 > Wolfenstein: Youngblood  
@@ -729,6 +740,7 @@ There are 739 games on this list.
 > World of Tanks Blitz  
 > World of Warcraft  
 > World of Warcraft Classic  
+> World War Z  
 > Wo Long Fallen Dynasty  
 > WrestleQuest  
 > Wuthering Waves  
