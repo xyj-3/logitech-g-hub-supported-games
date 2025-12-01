@@ -11,6 +11,15 @@ This document will describe two solutions for adding a game that is not being de
 1. [Fixing automatic game detection](#fixing-automatic-game-detection)
 2. [Using "Add Game or Application"](#using--add-game-or-application-)
 
+##
+> [!WARNING]
+> - Always back up files you plan on modifying.
+> - Don't use notepad.exe to view or edit sensitive plaintext files. G HUB is sensitive to line endings other than LF (Unix-style) and the Windows 11 version of Notepad only allows you to create new files
+> with CRLF line endings and converts all copy-pasted text to CRLF as well.
+> - G HUB software updates overwrite `applications.json`, so if you make any changes to it, you will have to re-add them after each update.
+
+----
+
 # Fixing automatic game detection
 ## Background
 
@@ -209,9 +218,6 @@ You are using Windows and find a Windows registry key for the game location. Acc
 
 Now restart G HUB if it was already running. Navigate to "Games & Applications", and click "Scan Now". Grand Theft Auto V should now be detected.
 
-
-## Warning About Software Updates
-G HUB software updates overwrite `applications.json`, so you will have to re-add your changes after each update.
 
 
 # Using "Add Game or Application"
