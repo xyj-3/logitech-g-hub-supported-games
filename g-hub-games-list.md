@@ -1,13 +1,14 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.8, released on 2025/10/13.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2026.1, released on 2026/01/20.
 
-There are 751 games on this list.
+There are 783 games on this list.
 
 > 007 Legends  
 > 33 Immortals  
 > 3D Ultra Minigolf Adventures  
 > 7 Days to Die  
+> Abyssus  
 > Age of Empires 2 Definitive Edition  
 > Age of Empires IV  
 > Age of Wonders 4  
@@ -30,6 +31,7 @@ There are 751 games on this list.
 > Anomaly: Warzone Earth  
 > Anthem  
 > Apex Legends  
+> ARC Raiders  
 > A.R.E.S.  
 > ARK: Survival Ascended  
 > ARK: Survival Evolved  
@@ -77,6 +79,7 @@ There are 751 games on this list.
 > Battlefield 2  
 > Battlefield 3  
 > Battlefield 4  
+> Battlefield 6  
 > Battlefield Bad Company 2  
 > Battlefield Hardline  
 > Battlefield V  
@@ -107,6 +110,7 @@ There are 751 games on this list.
 > Borderlands  
 > Borderlands 2  
 > Borderlands 3  
+> Borderlands 4  
 > Borderlands: The Pre-Sequel  
 > Brawlhalla  
 > Breakwaters  
@@ -119,6 +123,7 @@ There are 751 games on this list.
 > Call of Duty: Black Ops  
 > Call of Duty: Black Ops 4  
 > Call of Duty: Black Ops 6  
+> Call of Duty: Black Ops 7  
 > Call of Duty: Black Ops Cold War  
 > Call of Duty: Black Ops II (single player)  
 > Call of Duty: Black Ops III  
@@ -227,10 +232,12 @@ There are 751 games on this list.
 > Dishonored 2  
 > Dishonored-Definitive Edition  
 > Disney Dreamlight Valley  
+> Dispatch  
 > Divine Knockout  
 > Divinity Original Sin 2  
 > Don't Starve Together  
 > DOOM  
+> DOOM + DOOM II  
 > DOOM Eternal  
 > DOOM: The Dark Ages  
 > Dota 2  
@@ -249,10 +256,13 @@ There are 751 games on this list.
 > Dying Light  
 > Dying Light 2 Stay Human  
 > Dying Light 2 Stay Human  
+> Dying Light: The Beast  
 > DYNASTY WARRIORS: ORIGINS  
 > EA SPORTS FC 24  
+> EA SPORTS FC 26  
 > EA SPORTS FIFA 23  
 > EA SPORTS Madden NFL 25  
+> EA SPORTS Madden NFL 26  
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
 > ELDEN RING  
@@ -263,6 +273,7 @@ There are 751 games on this list.
 > Escape From Tarkov  
 > Escape From Tarkov Arena  
 > Europa Universalis IV  
+> Europa Universalis V  
 > Euro Truck Simulator 2  
 > EVE Online  
 > Evil Genius 2 World Domination  
@@ -315,6 +326,8 @@ There are 751 games on this list.
 > Football Manager 2021  
 > Football Manager 2022  
 > Football Manager 2023  
+> Football Manager 26  
+> Formula Legends  
 > Fortnite  
 > Forza Horizon 5  
 > Forza Motorsport  
@@ -326,6 +339,7 @@ There are 751 games on this list.
 > Frostpunk 2  
 > Garrys Mod  
 > Gears 5  
+> Gears of War: Reloaded  
 > Genshin Impact  
 > Ghostrunner  
 > Ghosts 'N Goblins Resurrection  
@@ -393,6 +407,7 @@ There are 751 games on this list.
 > Star Wars Jedi: Fallen Order  
 > JETT: The Far Shore  
 > JoJos Bizarre Adventure: All-Star Battle  
+> Journey To The Savage Planet  
 > Just DIe Already  
 > KartRider Drift  
 > Kerbal Space Program  
@@ -441,11 +456,13 @@ There are 751 games on this list.
 > Marvels Spider-Man 2  
 > Marvels Spider-Man Miles Morales  
 > Marvels Spider-Man Remastered  
+> MARVEL Cosmic Invasion  
 > Marvel Rivals  
 > Mass Effect Legendary Edition  
 > Mass Effect: Andromeda  
 > Mass Effect: Andromeda Deluxe Edition  
 > MechWarrior 5: Clans  
+> METAL GEAR SOLID DELTA: SNAKE EATER  
 > METAL GEAR SOLID V: THE PHANTOM PAIN  
 > Metal Gear Survive  
 > Metal: Hellsinger  
@@ -454,6 +471,7 @@ There are 751 games on this list.
 > Microsoft Flight Simulator 2024  
 > Middle-earth: Shadow of Mordor  
 > Middle-earth:Shadow of War  
+> MIMESIS  
 > Minecraft  
 > Monster Hunter Rise  
 > Monster Hunter Stories  
@@ -476,6 +494,7 @@ There are 751 games on this list.
 > NBA 2K23  
 > NBA 2K24  
 > NBA 2K25  
+> NBA 2K26  
 > Need for Speed Heat  
 > Need for Speed Undercover  
 > Neptunia:Sisters VS Sisters  
@@ -486,12 +505,15 @@ There are 751 games on this list.
 > NieR Replicant ver.1.22474487139...  
 > Nightingale  
 > NINJA GAIDEN 2 Black  
+> NINJA GAIDEN: Ragebound  
 > Nioh 2 - The Complete Edition  
 > No Man's Sky  
 > No Rest for the Wicked  
 > Nuts  
+> OCTOPATH TRAVELER 0  
 > OCTOPATH TRAVELER II  
 > Off The Grid  
+> Of Ash and Steel  
 > Old School RuneScape  
 > Old Skies  
 > Once Human  
@@ -520,6 +542,7 @@ There are 751 games on this list.
 > Phantasy Star Online 2 New Genesis  
 > Phantom Fury  
 > Photoshop CC  
+> Pioneers of Pagonia  
 > PlayerUnknown's Battlegrounds  
 > Police Simulator: Patrol Officers  
 > Postal 4  
@@ -544,6 +567,7 @@ There are 751 games on this list.
 > Resident Evil 3  
 > Resident Evil 4  
 > RESONANCE OF FATE/END OF ETERNITY 4K/HD EDITION  
+> Revenge of the Savage Planet  
 > Reverse 1999  
 > rFactor  
 > Riders Republic  
@@ -586,6 +610,7 @@ There are 751 games on this list.
 > Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
 > Sherlock Holmes: Crimes & Punishments  
+> SHINOBI: Art of Vengeance  
 > Shin Megami Tensei V: Vengeance  
 > Shop Titans  
 > Shovel Knight Pocket Dungeon  
@@ -604,8 +629,10 @@ There are 751 games on this list.
 > Sniper Elite: Resistance  
 > SNK VS. CAPCOM SVC CHAOS  
 > SnowRunner  
+> Solo Leveling: ARISE OVERDRIVE  
 > Sol Cesto  
 > Sonic Frontiers  
+> Sonic Rumble  
 > Sons Of The Forest  
 > Soulstice  
 > Soul Hackers 2  
@@ -679,6 +706,7 @@ There are 751 games on this list.
 > The Mims Beginning  
 > The Outer Worlds  
 > The Outlast Trials  
+> The Rogue Prince of Persia  
 > The Sims 4  
 > The Surge 2  
 > The Talos Principle 2  
@@ -704,6 +732,7 @@ There are 751 games on this list.
 > Tunic  
 > Twelve Minutes  
 > Two Point Campus  
+> UNBEATABLE  
 > Undecember  
 > Until Dawn  
 > Untitled Goose Game  
@@ -716,12 +745,14 @@ There are 751 games on this list.
 > Virtua Fighter 5 R.E.V.O.  
 > Visions of Mana  
 > Voidtrain  
+> VOID/BREAKER  
 > V Rising  
 > Wallpaper Engine  
 > Warframe  
 > Warhammer 40,000: Battlesector  
 > Warhammer 40,000: Chaos Gate - Daemonhunters  
 > Warhammer 40,000: Darktide  
+> Warhammer 40,000: Dawn of War - Definitive Edition  
 > Warhammer 40000 Rogue Trader  
 > Warhammer 40,000: Space Marine 2  
 > Warhammer 40,000: Speed Freeks  
@@ -732,6 +763,7 @@ There are 751 games on this list.
 > Way of the Hunter  
 > Werewolf: The Apocalypse Earthblood  
 > We Were Here  
+> Where Winds Meet  
 > Wildgate  
 > Winter Ember  
 > Wolfenstein II: The New Colossus  
