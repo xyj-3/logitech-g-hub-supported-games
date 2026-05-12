@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2026.1, released on 2026/01/20.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2026.3, released on 2026/04/28.
 
-There are 783 games on this list.
+There are 812 games on this list.
 
 > 007 Legends  
 > 33 Immortals  
@@ -33,6 +33,7 @@ There are 783 games on this list.
 > Apex Legends  
 > ARC Raiders  
 > A.R.E.S.  
+> Arknights: Endfield  
 > ARK: Survival Ascended  
 > ARK: Survival Evolved  
 > ARK: Survival of the Fittest  
@@ -152,6 +153,7 @@ There are 783 games on this list.
 > Cities Skylines  
 > Clair Obscur: Expedition 33  
 > Classified: France '44  
+> CODE VEIN II  
 > Cold Zero  
 > Company of Heroes 2  
 > Company of Heroes 3  
@@ -224,6 +226,7 @@ There are 783 games on this list.
 > Devil May Cry V  
 > Diablo III  
 > Diablo IV  
+> Digimon Story Time Stranger  
 > DiRT RALLY  
 > DiRT Rally 2.0  
 > Disco Elysium The Final Cut  
@@ -263,6 +266,7 @@ There are 783 games on this list.
 > EA SPORTS FIFA 23  
 > EA SPORTS Madden NFL 25  
 > EA SPORTS Madden NFL 26  
+> Echo Point Nova  
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
 > ELDEN RING  
@@ -303,6 +307,7 @@ There are 783 games on this list.
 > Farming Sim 15  
 > Far Cry 6  
 > Far Cry Primal  
+> FATAL FRAME II: Crimson Butterfly REMAKE  
 > FATAL FRAME / PROJECT ZERO: Maiden of Black Water  
 > FATAL FURY: City of the Wolves  
 > Fate of the Dragon  
@@ -335,6 +340,7 @@ There are 783 games on this list.
 > FOUNDRY  
 > FragPunk  
 > Frank and Drake  
+> FRONT MISSION 3: Remake  
 > Frostpunk  
 > Frostpunk 2  
 > Garrys Mod  
@@ -344,6 +350,7 @@ There are 783 games on this list.
 > Ghostrunner  
 > Ghosts 'N Goblins Resurrection  
 > Ghostwire: Tokyo  
+> Ghost Gunners  
 > Ghost of Tsushima DIRECTOR'S CUT  
 > Tom Clancy's Ghost Recon Wildlands  
 > Glitchpunk  
@@ -378,7 +385,9 @@ There are 783 games on this list.
 > Hello Neighbor 2  
 > Hell Let Loose  
 > Heroes of the Storm  
+> Highguard  
 > High On Life  
+> High On Life 2  
 > Hitman 2  
 > Hitman 3  
 > HITMAN World of Assassination  
@@ -435,6 +444,7 @@ There are 783 games on this list.
 > LEGO Horizon Adventures  
 > LEGO Star Wars: The Skywalker Saga  
 > Lethal Company  
+> Lethal Honor - Order of the Apocalypse  
 > Life is Strange: True Colors  
 > Like a Dragon Gaiden The Man Who Erased His Name  
 > Like a Dragon: Infinite Wealth  
@@ -450,6 +460,7 @@ There are 783 games on this list.
 > Madden NFL 24  
 > Mafia: The Old Country  
 > Magic The Gathering Arena  
+> Marathon  
 > Marvel's Avengers  
 > Marvels Guardians of the Galaxy  
 > Marvels Midnight Suns  
@@ -476,6 +487,7 @@ There are 783 games on this list.
 > Monster Hunter Rise  
 > Monster Hunter Stories  
 > Monster Hunter Stories 2: Wings of Ruin  
+> Monster Hunter Stories 3: Twisted Reflection  
 > Monster Hunter Wilds  
 > Monster Hunter: World  
 > Moonlighter  
@@ -507,6 +519,7 @@ There are 783 games on this list.
 > NINJA GAIDEN 2 Black  
 > NINJA GAIDEN: Ragebound  
 > Nioh 2 - The Complete Edition  
+> Nioh 3  
 > No Man's Sky  
 > No Rest for the Wicked  
 > Nuts  
@@ -522,15 +535,17 @@ There are 783 games on this list.
 > Only Up  
 > Orcs Must Die 3  
 > Outriders  
-> Overwatch 2  
+> Overwatch  
 > Oxygen Not Included  
 > PAC-MAN WORLD Re-PAC  
 > Paladins  
 > Palworld  
+> Pathologic 3  
 > Path of Exile  
 > Path of Exile 2  
 > PAYDAY 2  
 > PAYDAY 3  
+> PBA Pro Bowling 2026  
 > PC Building Simulator 2  
 > PEAK  
 > Persona 3 Reload  
@@ -552,6 +567,7 @@ There are 783 games on this list.
 > Project Zomboid  
 > Psychonauts 2  
 > Puyo Puyo Tetris 2  
+> Quarantine Zone: The Last Check  
 > RaceRoom Racing Experience  
 > Raft  
 > Rage 2  
@@ -560,6 +576,7 @@ There are 783 games on this list.
 > Rainbow Six Vegas  
 > Ready or Not  
 > Red Dead Redemption 2  
+> Relooted  
 > REMATCH  
 > Remnant II  
 > Resident Evil Village  
@@ -571,6 +588,7 @@ There are 783 games on this list.
 > Reverse 1999  
 > rFactor  
 > Riders Republic  
+> RIDE 6  
 > Rim World  
 > Rise of the Ronin  
 > Rise of the Tomb Raider  
@@ -620,15 +638,19 @@ There are 783 games on this list.
 > Sid Meier's Civilization VII  
 > Sifu  
 > SILENT HILL 2  
+> SILENT HILL f  
 > SimRail The Railway Simulator  
 > Skull and Bones  
 > Slay the spire  
+> Slay the Spire 2  
 > SMITE  
 > SMITE 2  
 > Sniper Elite 5  
 > Sniper Elite: Resistance  
 > SNK VS. CAPCOM SVC CHAOS  
 > SnowRunner  
+> Solargene  
+> Solasta II  
 > Solo Leveling: ARISE OVERDRIVE  
 > Sol Cesto  
 > Sonic Frontiers  
@@ -648,6 +670,7 @@ There are 783 games on this list.
 > Split Fiction  
 > Stardew Valley  
 > Starfield  
+> StarRupture  
 > STAR WARS: Dark Forces Remaster  
 > Star Wars: Squadrons  
 > Star Wars: Battlefront II  
@@ -663,10 +686,12 @@ There are 783 games on this list.
 > Stray  
 > Street Fighter 6  
 > Stronghold Warlords  
+> Styx: Blades of Greed  
 > Suicide Squad: Kill the Justice League  
 > Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars  
 > Super Magbot  
 > Super Monkey Ball Banana Mania  
+> Super Woden: Rally Edge  
 > System Shock  
 > Tales of Kenzera: ZAU  
 > Tales of Vesperia Definitive Edition  
@@ -701,12 +726,14 @@ There are 783 games on this list.
 > The Invincible  
 > The Last Of Us Part 1  
 > The Last of Us Part II Remastered  
+> The Legend of Heroes: Trails beyond the Horizon  
 > The Legend of Legacy HD Remastered  
 > Lord of the Rings Online  
 > The Mims Beginning  
 > The Outer Worlds  
 > The Outlast Trials  
 > The Rogue Prince of Persia  
+> The Seven Deadly Sins: Origin  
 > The Sims 4  
 > The Surge 2  
 > The Talos Principle 2  
@@ -778,8 +805,10 @@ There are 783 games on this list.
 > Wuthering Waves  
 > WWE 2K22  
 > WWE 2K25  
+> WWE 2K26  
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
+> Yakuza Kiwami 3 & Dark Ties  
 > Young Souls  
 > Your Only Move Is HUSTLE  
 > Youtubers Life  
