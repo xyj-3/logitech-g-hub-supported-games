@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 12 * * *"
   workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
 jobs:
   update-g-hub-list:
     runs-on: windows-latest
@@ -20,16 +23,17 @@ jobs:
       shell: cmd
 
     - name: Setup Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Run Python and update list if there was a software update
       run: |
-        echo update=$(python update_list.py) >> $GITHUB_ENV
+        update=$(python update_list.py)
+        echo "update=$update" >> "$GITHUB_ENV"
       shell: bash
 
     - name: Print env.update
@@ -39,7 +43,7 @@ jobs:
 
     - name: Create a PR if the list was updated
       if: ${{ env.update != '' }}
-      uses: peter-evans/create-pull-request@v6
+      uses: peter-evans/create-pull-request@v8
       with:
         branch: update
         commit-message: Update for G HUB version ${{ env.update }}

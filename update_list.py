@@ -10,7 +10,7 @@ def main():
     # get the G HUB version number of the repository
     repo_version_file = "ghub_version.txt"
     try:
-        with open(repo_version_file) as f:
+        with open(repo_version_file, encoding="utf-8") as f:
             version_repo = f.read().strip()
     except FileNotFoundError:
         raise Exception("ghub_version.txt not found")
@@ -18,7 +18,7 @@ def main():
     # get the latest G HUB version number
     version_file = "C:/ProgramData/LGHUB/current.json"
     try:
-        with open(version_file) as f:
+        with open(version_file, encoding="utf-8") as f:
             version_data = json.load(f)
         version = version_data["version"]
         version_shortened = re.sub(r"^(\d{4}\.\d+)\.\d+$", r"\1", version)
@@ -30,9 +30,13 @@ def main():
         # Get the release date
         release_date_file_path = f"C:/ProgramData/LGHUB/depots/{build_id}/release_notes/notes/index.html"
         try:
-            with open(release_date_file_path) as f:
+            # Explicit encoding: the Windows default (cp1252) can't decode the UTF-8 characters in the release notes
+            with open(release_date_file_path, encoding="utf-8") as f:
                 release_date_file = f.read()
-            release_date_pre = re.search(r"Released on ([A-Za-z]+ \d{1,2}, \d{4})\.", release_date_file).group(1)
+            release_date_match = re.search(r"Released on ([A-Za-z]+ \d{1,2}, \d{4})\.", release_date_file)
+            if release_date_match is None:
+                raise Exception("release date not found in release notes")
+            release_date_pre = release_date_match.group(1)
             # Try both full month name (%B) and abbreviated month name (%b)
             try:
                 date_obj = datetime.strptime(release_date_pre, "%B %d, %Y")
@@ -45,7 +49,7 @@ def main():
         # Create the new version of the list
         data_file_path = "C:/Program Files/LGHUB/data/applications.json"
         try:
-            with open(data_file_path) as f1:
+            with open(data_file_path, encoding="utf-8") as f1:
                 data = json.load(f1)
 
             with open("g-hub-games-list.md", "w+", encoding="utf-8") as f2:
@@ -66,7 +70,7 @@ def main():
             raise Exception("applications.json not found")
 
         # Update version.txt
-        with open(repo_version_file, "w") as f:
+        with open(repo_version_file, "w", encoding="utf-8") as f:
             f.write(version)
 
         # print out version for the commit message
