@@ -5,6 +5,20 @@ import json
 import re
 from datetime import datetime
 
+# The games list is also embedded in README.md between these two markers
+README_START_MARKER = "<!-- GAMES-LIST:START -->"
+README_END_MARKER = "<!-- GAMES-LIST:END -->"
+
+
+def embed_list_in_readme(readme, list_body):
+    """Return the README text with everything between the markers replaced by list_body."""
+    start = readme.find(README_START_MARKER)
+    end = readme.find(README_END_MARKER, start + 1)
+    if start == -1 or end == -1:
+        raise Exception(f"{README_START_MARKER} and {README_END_MARKER} markers not found in README.md")
+    start += len(README_START_MARKER)
+    return readme[:start] + "\n\n" + list_body + "\n" + readme[end:]
+
 
 def main():
     # get the G HUB version number of the repository
@@ -51,23 +65,36 @@ def main():
         try:
             with open(data_file_path, encoding="utf-8") as f1:
                 data = json.load(f1)
-
-            with open("g-hub-games-list.md", "w+", encoding="utf-8") as f2:
-                game_count = 0
-                games_string = ""
-
-                f2.write("# Logitech G HUB supported games list\n\n")
-                f2.write(
-                    f"This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version {version_shortened}, released on {release_date}.\n\n")
-
-                for application in data["applications"]:
-                    games_string += "> " + (application["name"]) + "  \n"
-                    game_count += 1
-
-                f2.write(f"There are {game_count} games on this list.\n\n")
-                f2.write(games_string)
         except FileNotFoundError:
             raise Exception("applications.json not found")
+
+        game_count = 0
+        games_string = ""
+        for application in data["applications"]:
+            games_string += "> " + (application["name"]) + "  \n"
+            game_count += 1
+
+        # Everything below the title: shared by g-hub-games-list.md and the README
+        list_body = (
+            f"This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version {version_shortened}, released on {release_date}.\n\n"
+            f"There are {game_count} games on this list.\n\n"
+            f"{games_string}"
+        )
+
+        # Build the new README before writing anything, so a missing marker can't leave the files out of sync
+        try:
+            with open("README.md", encoding="utf-8") as f3:
+                readme = f3.read()
+        except FileNotFoundError:
+            raise Exception("README.md not found")
+        new_readme = embed_list_in_readme(readme, list_body)
+
+        with open("g-hub-games-list.md", "w+", encoding="utf-8") as f2:
+            f2.write("# Logitech G HUB supported games list\n\n")
+            f2.write(list_body)
+
+        with open("README.md", "w", encoding="utf-8") as f3:
+            f3.write(new_readme)
 
         # Update version.txt
         with open(repo_version_file, "w", encoding="utf-8") as f:
