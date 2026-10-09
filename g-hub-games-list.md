@@ -1,8 +1,8 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2026.3, released on 2026/04/28.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2026.6, released on 2026/06/15.
 
-There are 812 games on this list.
+There are 823 games on this list.
 
 > 007 Legends  
 > 33 Immortals  
@@ -169,6 +169,7 @@ There are 812 games on this list.
 > Crashday  
 > Crash Bandicoot 4 It's About Time  
 > Crime Boss Rockay City  
+> Crimson Desert  
 > CRISIS CORE FINAL FANTASY VII REUNION  
 > Crusader Kings II  
 > Crusader Kings III  
@@ -210,6 +211,7 @@ There are 812 games on this list.
 > DeathSpank  
 > DeathSpank: Thongs Of Virtue  
 > Death Stranding  
+> DEATH STRANDING 2: ON THE BEACH  
 > Death Trash  
 > Deceive Inc  
 > Deep Rock Galactic  
@@ -276,6 +278,7 @@ There are 812 games on this list.
 > Elite Dangerous  
 > Escape From Tarkov  
 > Escape From Tarkov Arena  
+> Esoteric Ebb  
 > Europa Universalis IV  
 > Europa Universalis V  
 > Euro Truck Simulator 2  
@@ -364,6 +367,7 @@ There are 812 games on this list.
 > Gotham Knights  
 > Granblue Fantasy: Relink  
 > Grand Theft Auto V  
+> Grand Theft Auto V Enhanced  
 > Gray Zone Warfare  
 > Greedfall  
 > GreedFall II: The Dying World  
@@ -415,6 +419,7 @@ There are 812 games on this list.
 > JDM: Japanese Drift Master  
 > Star Wars Jedi: Fallen Order  
 > JETT: The Far Shore  
+> John Carpenter's Toxic Commando  
 > JoJos Bizarre Adventure: All-Star Battle  
 > Journey To The Savage Planet  
 > Just DIe Already  
@@ -426,6 +431,7 @@ There are 812 games on this list.
 > Kingdom Hearts HD 1.5 + 2.5 ReMix  
 > Kingdom Hearts Melody of Memory  
 > Killing Floor 3  
+> Kiln  
 > Kingdom Come: Deliverance  
 > Kingdom Come: Deliverance II  
 > Kingdom Hearts 3 + Re Mind  
@@ -440,11 +446,13 @@ There are 812 games on this list.
 > Lawn Mowing Simulator  
 > League of Legends  
 > Left 4 Dead 2  
+> Legends of the Round Table  
 > Legend of Mana  
 > LEGO Horizon Adventures  
 > LEGO Star Wars: The Skywalker Saga  
 > Lethal Company  
 > Lethal Honor - Order of the Apocalypse  
+> Life is Strange: Reunion  
 > Life is Strange: True Colors  
 > Like a Dragon Gaiden The Man Who Erased His Name  
 > Like a Dragon: Infinite Wealth  
@@ -473,6 +481,7 @@ There are 812 games on this list.
 > Mass Effect: Andromeda  
 > Mass Effect: Andromeda Deluxe Edition  
 > MechWarrior 5: Clans  
+> Mega Man Star Force Legacy Collection  
 > METAL GEAR SOLID DELTA: SNAKE EATER  
 > METAL GEAR SOLID V: THE PHANTOM PAIN  
 > Metal Gear Survive  
@@ -496,6 +505,7 @@ There are 812 games on this list.
 > Mortal Kombat 11  
 > Mount and Blade 2 Bannerlord  
 > Mount & Blade: Warband  
+> MOUSE: P.I. For Hire  
 > Muck  
 > MultiVersus  
 > NARAKA: BLADEPOINT  
@@ -583,6 +593,7 @@ There are 812 games on this list.
 > Resident Evil 2  
 > Resident Evil 3  
 > Resident Evil 4  
+> Resident Evil Requiem  
 > RESONANCE OF FATE/END OF ETERNITY 4K/HD EDITION  
 > Revenge of the Savage Planet  
 > Reverse 1999  
