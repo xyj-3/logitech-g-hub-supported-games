@@ -3,6 +3,7 @@ with LGHUB installed at the default location."""
 
 import json
 import re
+import sys
 from datetime import datetime
 
 # The games list is also embedded in README.md between these two markers
@@ -102,6 +103,9 @@ def main():
 
         # print out version for the commit message
         print(version_shortened)
+    else:
+        # Nothing printed on stdout, so the workflow sees no update and skips the PR steps
+        print(f"G HUB {version} is already in the repository, nothing to update", file=sys.stderr)
 
 
 if __name__ == "__main__":
