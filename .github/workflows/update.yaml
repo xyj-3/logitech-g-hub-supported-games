@@ -38,30 +38,8 @@ jobs:
         echo "version=$version" >> "$GITHUB_OUTPUT"
       shell: bash
 
-    - name: Check for an open PR for this update
-      id: existing
-      if: ${{ steps.update.outputs.version != '' }}
-      env:
-        GH_TOKEN: ${{ github.token }}
-      run: |
-        # ghub_version.txt now holds the full version just installed
-        new_version=$(tr -d '[:space:]' < ghub_version.txt)
-        exists=false
-        if [ "$(gh pr list --head update --state open --json number --jq length)" != "0" ]; then
-          # An open PR exists: is it already for this exact G HUB version?
-          if git fetch --depth=1 origin update &&
-             [ "$(git show FETCH_HEAD:ghub_version.txt | tr -d '[:space:]')" = "$new_version" ]; then
-            exists=true
-          fi
-        fi
-        echo "exists=$exists" >> "$GITHUB_OUTPUT"
-        if [ "$exists" = true ]; then
-          echo "An open PR for G HUB $new_version already exists, not creating a commit or PR"
-        fi
-      shell: bash
-
     - name: Create a PR if the list was updated
-      if: ${{ steps.update.outputs.version != '' && steps.existing.outputs.exists != 'true' }}
+      if: ${{ steps.update.outputs.version != '' }}
       uses: peter-evans/create-pull-request@v8
       with:
         branch: update
