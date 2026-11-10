@@ -22,18 +22,41 @@ jobs:
         %TEMP%\installer.exe --silent
       shell: cmd
 
+    - name: Check whether the installed G HUB is newer than the repository
+      id: check
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        # Compare without checking out the repository or installing Python: the full installed version
+        # against ghub_version.txt on the commit this run is for
+        $installed = ((Get-Content C:/ProgramData/LGHUB/current.json -Raw | ConvertFrom-Json).version).Trim()
+        $repo = (gh api -H "Accept: application/vnd.github.raw" "repos/${{ github.repository }}/contents/ghub_version.txt?ref=${{ github.sha }}") -join ""
+        if ($LASTEXITCODE -ne 0) { throw "Could not read ghub_version.txt from the repository" }
+        $repo = $repo.Trim()
+        if ($installed -eq $repo) {
+          Write-Host "G HUB $installed is already in the repository, nothing to update"
+          "changed=false" | Add-Content -Path $env:GITHUB_OUTPUT
+        } else {
+          Write-Host "G HUB $installed is newer than the repository's $repo"
+          "changed=true" | Add-Content -Path $env:GITHUB_OUTPUT
+        }
+      shell: pwsh
+
     - name: Setup Python
+      if: ${{ steps.check.outputs.changed == 'true' }}
       uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
     - name: Checkout repository
+      if: ${{ steps.check.outputs.changed == 'true' }}
       uses: actions/checkout@v6
 
-    - name: Run Python and update list if there was a software update
+    - name: Run Python and update list
       id: update
+      if: ${{ steps.check.outputs.changed == 'true' }}
       run: |
-        # stdout is the new version (empty if the repository is already up to date); stderr goes to the log
+        # stdout is the new version for the PR title; stderr goes to the log
         version=$(python update_list.py)
         echo "version=$version" >> "$GITHUB_OUTPUT"
       shell: bash
